@@ -121,7 +121,6 @@ Toshiyana (Regular),Toshiyana,Regular,,,Version 6.00,PYRS,Regular,5 (Medium),400
 汉仪平安行粗简 (Regular),汉仪平安行粗简,Regular,,,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),34,7911,7912
 汉仪平安行繁 (Regular),汉仪平安行繁,Regular,,,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),34,7911,7912
 汉仪平安行简 (Regular),汉仪平安行简,Regular,,,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),34,7911,7912
-汉仪旗黑-105简繁 (UltraBlack),汉仪旗黑-105简繁,UltraBlack,汉仪旗黑,105简繁,Version 5.01,HNYI,Regular,5 (Medium),400 (Normal),34,10217,10218
 汉仪旗黑-25S (Hairline),汉仪旗黑-25S,Hairline,汉仪旗黑,25S,Version 5.01,HNYI,Regular,5 (Medium),400 (Normal),37,28873,28969
 汉仪旗黑-25简繁 (Hairline),汉仪旗黑-25简繁,Hairline,汉仪旗黑,25简繁,Version 5.00,HNYI,Regular,5 (Medium),100 (Thin),34,10025,10026
 汉仪旗黑-30S (ExtraThin),汉仪旗黑-30S,ExtraThin,汉仪旗黑,30S,Version 5.01,HNYI,Regular,5 (Medium),400 (Normal),37,28873,28969
@@ -138,6 +137,7 @@ Toshiyana (Regular),Toshiyana,Regular,,,Version 6.00,PYRS,Regular,5 (Medium),400
 汉仪旗黑-85S (Heavy),汉仪旗黑-85S,Heavy,汉仪旗黑,85S,Version 5.01,HNYI,Regular,5 (Medium),900 (Black),37,28873,28969
 汉仪旗黑-90S (Black),汉仪旗黑-90S,Black,汉仪旗黑,90S,Version 5.01,HNYI,Regular,5 (Medium),400 (Normal),37,28873,28969
 汉仪旗黑-95S (ExtraBlack),汉仪旗黑-95S,ExtraBlack,汉仪旗黑,95S,Version 5.01,HNYI,Regular,5 (Medium),400 (Normal),37,28873,28969
+汉仪旗黑-105简繁 (UltraBlack),汉仪旗黑-105简繁,UltraBlack,汉仪旗黑,105简繁,Version 5.01,HNYI,Regular,5 (Medium),400 (Normal),34,10217,10218
 汉仪旗黑X1-35W (Thin),汉仪旗黑X1-35W,Thin,汉仪旗黑X1,35W,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),34,10413,10414
 汉仪旗黑X1-45W (ExtraLight),汉仪旗黑X1-45W,ExtraLight,汉仪旗黑X1,45W,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),34,10413,10414
 汉仪旗黑X1-55W (Book),汉仪旗黑X1-55W,Book,汉仪旗黑X1,55W,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),34,10413,10414
@@ -203,6 +203,7 @@ Toshiyana (Regular),Toshiyana,Regular,,,Version 6.00,PYRS,Regular,5 (Medium),400
 汉仪晴空体W (Regular),汉仪晴空体W,Regular,,,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),34,10392,10393
 汉仪晴空体繁 (Regular),汉仪晴空体繁,Regular,,,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),34,7911,7912
 汉仪晴空体简 (Regular),汉仪晴空体简,Regular,,,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),34,7911,7912
+汉仪趣黑W (Regular),汉仪趣黑W,Regular,,,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),16,9664,9665
 汉仪全唐诗繁 (Regular),汉仪全唐诗繁,Regular,,,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),34,7911,7912
 汉仪全唐诗简 (Regular),汉仪全唐诗简,Regular,,,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),34,7911,7912
 汉仪瑞意宋W (Regular),汉仪瑞意宋W,Regular,,,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),34,10413,10414
@@ -329,3 +330,14 @@ Toshiyana (Regular),Toshiyana,Regular,,,Version 6.00,PYRS,Regular,5 (Medium),400
 汉仪字典宋简 (Regular),汉仪字典宋简,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,8633,8677
 汉仪综艺体繁 (Regular),汉仪综艺体繁,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,7615,7659
 汉仪综艺体简 (Regular),汉仪综艺体简,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,7615,7659
+新蒂黑板报 (Regular),新蒂黑板报,Regular,,,,XD  ,Regular,5 (Medium),400 (Normal),14,7473,7473
+新蒂黑板报底字 (Regular),新蒂黑板报底字,Regular,,,Version 1.00 April 1 2016 initial release,XD  ,Regular,5 (Medium),400 (Normal),14,5452,5452
+新蒂剪纸体 (Regular),新蒂剪纸体,Regular,,,,STW ,Regular,5 (Medium),400 (Normal),14,7472,7472
+新蒂金钟体 (Regular),新蒂金钟体,Regular,,,,XD  ,Regular,5 (Medium),400 (Normal),15,11409,11409
+新蒂绿豆体 (Regular),新蒂绿豆体,Regular,,,,XD  ,Regular,5 (Medium),400 (Normal),12,9864,9864
+新蒂泡芙体 (Regular),新蒂泡芙体,Regular,,,,XD  ,Regular,5 (Medium),400 (Normal),16,9907,9906
+新蒂下午茶基本版 (Regular),新蒂下午茶基本版,Regular,,,Version 1.00 December 31 2012 initial release,HL  ,Regular,5 (Medium),400 (Normal),9,4735,4737
+新蒂下午茶体 (Regular),新蒂下午茶体,Regular,,,,XD  ,Regular,5 (Medium),400 (Normal),48,10555,10557
+新蒂小丸子体 (Regular),新蒂小丸子体,Regular,,,,XD  ,Regular,5 (Medium),400 (Normal),21,10050,10050
+新蒂雪山体 (Regular),新蒂雪山体,Regular,,,,XD  ,Regular,5 (Medium),400 (Normal),11,11185,11185
+新蒂赵孟頫体 (Regular),新蒂赵孟頫体,Regular,,,,XD  ,Regular,5 (Medium),400 (Normal),23,22247,22274
