@@ -2,7 +2,10 @@
 
 ```
 Basileia
+Blackie
 Elgatino
+Ink Chancery
+Mildy
 Mithril
 PARaDOS
 Rayna
