@@ -130,7 +130,7 @@ Toshiyana (Regular),Toshiyana,Regular,,,Version 6.00,PYRS,Regular,5 (Medium),400
 汉仪旗黑-30S (ExtraThin),汉仪旗黑-30S,ExtraThin,汉仪旗黑,30S,Version 5.01,HNYI,Regular,5 (Medium),400 (Normal),37,28873,28969
 汉仪旗黑-35S (Thin),汉仪旗黑-35S,Thin,汉仪旗黑,35S,Version 5.01,HNYI,Regular,5 (Medium),100 (Thin),37,28873,28969
 汉仪旗黑-40S (UltraLight),汉仪旗黑-40S,UltraLight,汉仪旗黑,40S,Version 5.01,HNYI,Regular,5 (Medium),200 (Extra-light),37,28873,28969
-汉仪旗黑-45S (ExtraLight),汉仪旗黑-45S,ExtraLight,汉仪旗黑,45S,Version 5.01,HNYI,Regular,5 (Medium),200 (Extra-light),37,28873,28969
+汉仪旗黑-45S (ExtraLight),汉仪旗黑-45S,ExtraLight,汉仪旗黑,45S,Version 5.01,HNYI,Regular,5 (Medium),200 (Extra-light),37,28873,28874
 汉仪旗黑-50S (Light),汉仪旗黑-50S,Light,汉仪旗黑,50S,Version 5.01,HNYI,Regular,5 (Medium),300 (Light),37,28873,28969
 汉仪旗黑-55S (Book),汉仪旗黑-55S,Book,汉仪旗黑,55S,Version 5.01,HNYI,Regular,5 (Medium),400 (Normal),37,28873,28969
 汉仪旗黑-60S (Regular),汉仪旗黑-60S,Regular,汉仪旗黑,60S,Version 5.01,HNYI,Regular,5 (Medium),400 (Normal),37,28873,28969
@@ -217,6 +217,7 @@ Toshiyana (Regular),Toshiyana,Regular,,,Version 6.00,PYRS,Regular,5 (Medium),400
 汉仪润圆-55W (Book),汉仪润圆-55W,Book,汉仪润圆,55W,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),34,10322,10323
 汉仪润圆-65W (Medium),汉仪润圆-65W,Medium,汉仪润圆,65W,Version 5.00,HNYI,Regular,5 (Medium),500 (Medium),34,10322,10323
 汉仪润圆-75W (Bold),汉仪润圆-75W,Bold,汉仪润圆,75W,Version 5.00,HNYI,Regular,5 (Medium),700 (Bold),34,10322,10323
+汉仪尚巍清茶体W (Regular),汉仪尚巍清茶体W,Regular,,,,HNYI,Regular,5 (Medium),400 (Normal),20,10229,9848
 汉仪尚巍手书W (Regular),汉仪尚巍手书W,Regular,,,,HNYI,Regular,5 (Medium),400 (Normal),26,10073,10144
 汉仪神工体简 (Regular),汉仪神工体简,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,7615,7659
 汉仪时光体W (Regular),汉仪时光体W,Regular,,,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),33,10158,10159
@@ -296,6 +297,7 @@ Toshiyana (Regular),Toshiyana,Regular,,,Version 6.00,PYRS,Regular,5 (Medium),400
 汉仪丫丫体简 (Regular),汉仪丫丫体简,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,7615,7659
 汉仪雅酷黑W (Regular),汉仪雅酷黑W,Regular,,,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),31,10189,10190
 汉仪闫锐敏行楷W (Regular),汉仪闫锐敏行楷W,Regular,,,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),23,9924,9899
+汉仪颜楷W (Regular),汉仪颜楷W,Regular,,,,HNYI,Regular,5 (Medium),400 (Normal),28,10250,9956
 汉仪颜楷繁 (Regular),汉仪颜楷繁,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,7615,7659
 汉仪雁翎体简 (Regular),汉仪雁翎体简,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,7615,7659
 汉仪伊宁隶繁 (Regular),汉仪伊宁隶繁,Regular,,,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),34,7911,7912
@@ -306,6 +308,7 @@ Toshiyana (Regular),Toshiyana,Regular,,,Version 6.00,PYRS,Regular,5 (Medium),400
 汉仪圆叠体繁 (Regular),汉仪圆叠体繁,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,7615,7659
 汉仪圆叠体简 (Regular),汉仪圆叠体简,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,7615,7659
 汉仪张乃仁行书W (Regular),汉仪张乃仁行书W,Regular,,,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),24,10090,10074
+汉仪张子山体W (Regular),汉仪张子山体W,Regular,,,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),20,9683,9684
 汉仪长美黑繁 (Regular),汉仪长美黑繁,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,7615,7659
 汉仪长美黑简 (Regular),汉仪长美黑简,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,7615,7659
 汉仪长宋繁 (Regular),汉仪长宋繁,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,7615,7659
@@ -332,7 +335,9 @@ Toshiyana (Regular),Toshiyana,Regular,,,Version 6.00,PYRS,Regular,5 (Medium),400
 汉仪中圆简 (Regular),汉仪中圆简,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,7615,7659
 汉仪竹节体繁 (Regular),汉仪竹节体繁,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,7615,7659
 汉仪竹节体简 (Regular),汉仪竹节体简,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,7615,7659
+汉仪铸字超然体W (Regular),汉仪铸字超然体W,Regular,,,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),29,10230,9842
 汉仪铸字美心体W (Regular),汉仪铸字美心体W,Regular,,,Version 5.00,UKWN,Regular,5 (Medium),400 (Normal),28,9838,9847
+汉仪铸字童年体W (Regular),汉仪铸字童年体W,Regular,,,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),29,10213,9824
 汉仪篆书繁 (Regular),汉仪篆书繁,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,7615,7659
 汉仪字典宋 (Regular),汉仪字典宋,Regular,,,Version  3.53,HANY,Regular,5 (Medium),400 (Normal),35,28723,28724
 汉仪字典宋繁 (Regular),汉仪字典宋繁,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,8205,8249
