@@ -56,6 +56,7 @@ Toshiyana (Regular),Toshiyana,Regular,,,Version 6.00,PYRS,Regular,5 (Medium),400
 汉仪粗圆简 (Regular),汉仪粗圆简,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,8633,8677
 汉仪粗篆繁 (Regular),汉仪粗篆繁,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,7615,7659
 汉仪大黑 (Regular),汉仪大黑,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),35,28723,28724
+汉仪大黑B5 (Regular),汉仪大黑B5,Regular,,,Version 5.00,HANY,Regular,5 (Medium),400 (Normal),23,13568,13569
 汉仪大黑繁 (Regular),汉仪大黑繁,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,8205,8249
 汉仪大黑简 (Regular),汉仪大黑简,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,7615,7659
 汉仪大隶书繁 (Regular),汉仪大隶书繁,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,8205,8249
@@ -503,8 +504,10 @@ Toshiyana (Regular),Toshiyana,Regular,,,Version 6.00,PYRS,Regular,5 (Medium),400
 汉仪细行楷简 (Regular),汉仪细行楷简,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,7615,7659
 汉仪细简黑简 (Regular),汉仪细简黑简,Regular,,,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),34,7911,7912
 汉仪细秀体简 (Regular),汉仪细秀体简,Regular,,,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),34,7911,7912
+汉仪细圆B5 (Regular),汉仪细圆B5,Regular,,,Version 5.00,HANY,Regular,5 (Medium),400 (Normal),27,13824,13827
 汉仪细圆繁 (Regular),汉仪细圆繁,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,8205,8249
 汉仪细圆简 (Regular),汉仪细圆简,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,8633,8677
+汉仪细中圆B5 (Regular),汉仪细中圆B5,Regular,,,Version 5.00,HANY,Regular,5 (Medium),400 (Normal),27,13824,13827
 汉仪细中圆繁 (Regular),汉仪细中圆繁,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,8205,8249
 汉仪细中圆简 (Regular),汉仪细中圆简,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,7615,7659
 汉仪夏日体W (Regular),汉仪夏日体W,Regular,,,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),34,10317,10318
@@ -527,8 +530,8 @@ Toshiyana (Regular),Toshiyana,Regular,,,Version 6.00,PYRS,Regular,5 (Medium),400
 汉仪晓波舒黑繁 (Regular),汉仪晓波舒黑繁,Regular,汉仪晓波舒黑,繁,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),20,7533,7299
 汉仪晓波舒黑简 (Regular),汉仪晓波舒黑简,Regular,汉仪晓波舒黑,简,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),20,7533,7299
 汉仪晓波折纸体简 (Regular),汉仪晓波折纸体简,Regular,,,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),34,7911,7912
-汉仪新蒂手札体 (Regular),汉仪新蒂手札体,Regular,,,Version 1.00;January 7, 2018;FontCreator 11.0.0.2408 64-bit,XD  ,Regular,5 (Medium),400 (Normal),19,10710,10705
-汉仪新蒂唐朝体 (Regular),汉仪新蒂唐朝体,Regular,,,Version 1.00 June 13  2015  initial release,XD  ,Regular,5 (Medium),400 (Normal),23,21463,21457
+汉仪新蒂手札体 (Regular),汉仪新蒂手札体,Regular,,,Version 1.00;January 7 2018;FontCreator 11.0.0.2408 64-bit,XD  ,Regular,5 (Medium),400 (Normal),19,10710,10705
+汉仪新蒂唐朝体 (Regular),汉仪新蒂唐朝体,Regular,,,Version 1.00 June 13 2015 initial release,XD  ,Regular,5 (Medium),400 (Normal),23,21463,21457
 汉仪新人文宋W (Regular),汉仪新人文宋W,Regular,,,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),34,10413,10414
 汉仪新人文宋繁 (Regular),汉仪新人文宋繁,Regular,,,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),34,8007,8008
 汉仪新人文宋简 (Regular),汉仪新人文宋简,Regular,,,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),34,8007,8008
@@ -584,8 +587,10 @@ Toshiyana (Regular),Toshiyana,Regular,,,Version 6.00,PYRS,Regular,5 (Medium),400
 汉仪珍珠隶繁 (Regular),汉仪珍珠隶繁,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),29,7596,7596
 汉仪珍珠隶简 (Regular),汉仪珍珠隶简,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),29,7596,7596
 汉仪中等线 (Regular),汉仪中等线,Regular,,,Version  3.53,HANY,Regular,5 (Medium),400 (Normal),35,28723,28724
+汉仪中等线B5 (Regular),汉仪中等线B5,Regular,,,Version 5.00,HANY,Regular,5 (Medium),400 (Normal),23,13568,13569
 汉仪中等线繁 (Regular),汉仪中等线繁,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,8205,8249
 汉仪中等线简 (Regular),汉仪中等线简,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,7615,7659
+汉仪中黑B5 (Regular),汉仪中黑B5,Regular,,,Version 5.00,HANY,Regular,5 (Medium),400 (Normal),23,13568,13569
 汉仪中黑S (Regular),汉仪中黑S,Regular,,,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),37,28681,28682
 汉仪中黑繁 (Regular),汉仪中黑繁,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,8205,8249
 汉仪中黑简 (Regular),汉仪中黑简,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,8633,8677
@@ -598,6 +603,7 @@ Toshiyana (Regular),Toshiyana,Regular,,,Version 6.00,PYRS,Regular,5 (Medium),400
 汉仪中宋简 (Regular),汉仪中宋简,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,7615,7659
 汉仪中秀体繁 (Regular),汉仪中秀体繁,Regular,汉仪中秀体,繁,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),36,8060,7825
 汉仪中秀体简 (Regular),汉仪中秀体简,Regular,,,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),34,7911,7912
+汉仪中圆B5 (Regular),汉仪中圆B5,Regular,,,Version 5.00,HANY,Regular,5 (Medium),400 (Normal),27,13824,13827
 汉仪中圆繁 (Regular),汉仪中圆繁,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,8205,8249
 汉仪中圆简 (Regular),汉仪中圆简,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,7615,7659
 汉仪竹节体繁 (Regular),汉仪竹节体繁,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,7615,7659
@@ -619,15 +625,15 @@ Toshiyana (Regular),Toshiyana,Regular,,,Version 6.00,PYRS,Regular,5 (Medium),400
 汉仪字酷堂义山楷W (Regular),汉仪字酷堂义山楷W,Regular,汉仪字酷堂义山楷W,R,Version 5.00,HNYI,Regular,5 (Medium),400 (Normal),29,10564,10160
 汉仪综艺体繁 (Regular),汉仪综艺体繁,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,7615,7659
 汉仪综艺体简 (Regular),汉仪综艺体简,Regular,,,Version 3.53,HANY,Regular,5 (Medium),400 (Normal),27,7615,7659
-新蒂黑板报 (Regular),新蒂黑板报,Regular,,,Version 1.00 April 1  2016  initial release,XD  ,Regular,5 (Medium),400 (Normal),14,7473,7473
-新蒂黑板报底字 (Regular),新蒂黑板报底字,Regular,,,Version 1.00 April 1  2016  initial release,XD  ,Regular,5 (Medium),400 (Normal),14,5452,5452
-新蒂剪纸体 (Regular),新蒂剪纸体,Regular,,,Version 1.00 April 1  2016  initial release,STW ,Regular,5 (Medium),400 (Normal),14,7472,7472
-新蒂金钟体 (Regular),新蒂金钟体,Regular,,,Version 1.00 January 22  2016  initial release,XD  ,Regular,5 (Medium),400 (Normal),15,11409,11409
-新蒂绿豆体 (Regular),新蒂绿豆体,Regular,,,Version 1.00 October 21  2014  initial release,XD  ,Regular,5 (Medium),400 (Normal),12,9864,9864
-新蒂泡芙体 (Regular),新蒂泡芙体,Regular,,,Version 1.00 April 1  2016  initial release,XD  ,Regular,5 (Medium),400 (Normal),16,9907,9906
-新蒂文徵明體 (Regular),新蒂文徵明體,Regular,,,Version 1.00 November 22  2016  initial release,XD  ,Regular,5 (Medium),400 (Normal),16,10686,10685
-新蒂下午茶基本版 (Regular),新蒂下午茶基本版,Regular,,,Version 1.00 December 31  2012  initial release,HL  ,Regular,5 (Medium),400 (Normal),9,4735,4737
-新蒂下午茶体 (Regular),新蒂下午茶体,Regular,,,Version 1.00 April 1  2016  initial release,XD  ,Regular,5 (Medium),400 (Normal),48,10555,10557
-新蒂小丸子体 (Regular),新蒂小丸子体,Regular,,,Version 1.00 December 14  2015  initial release,XD  ,Regular,5 (Medium),400 (Normal),21,10050,10050
-新蒂雪山体 (Regular),新蒂雪山体,Regular,,,Version 1.00 January 17  2016  initial release,XD  ,Regular,5 (Medium),400 (Normal),11,11185,11185
-新蒂赵孟頫体 (Regular),新蒂赵孟頫体,Regular,,,Version 1.00 April 1  2016  initial release,XD  ,Regular,5 (Medium),400 (Normal),23,22247,22274
+新蒂黑板报 (Regular),新蒂黑板报,Regular,,,Version 1.00 April 1 2016 initial release,XD  ,Regular,5 (Medium),400 (Normal),14,7473,7473
+新蒂黑板报底字 (Regular),新蒂黑板报底字,Regular,,,Version 1.00 April 1 2016 initial release,XD  ,Regular,5 (Medium),400 (Normal),14,5452,5452
+新蒂剪纸体 (Regular),新蒂剪纸体,Regular,,,Version 1.00 April 1 2016 initial release,STW ,Regular,5 (Medium),400 (Normal),14,7472,7472
+新蒂金钟体 (Regular),新蒂金钟体,Regular,,,Version 1.00 January 22 2016 initial release,XD  ,Regular,5 (Medium),400 (Normal),15,11409,11409
+新蒂绿豆体 (Regular),新蒂绿豆体,Regular,,,Version 1.00 October 21 2014 initial release,XD  ,Regular,5 (Medium),400 (Normal),12,9864,9864
+新蒂泡芙体 (Regular),新蒂泡芙体,Regular,,,Version 1.00 April 1 2016 initial release,XD  ,Regular,5 (Medium),400 (Normal),16,9907,9906
+新蒂文徵明體 (Regular),新蒂文徵明體,Regular,,,Version 1.00 November 22 2016 initial release,XD  ,Regular,5 (Medium),400 (Normal),16,10686,10685
+新蒂下午茶基本版 (Regular),新蒂下午茶基本版,Regular,,,Version 1.00 December 31 2012 initial release,HL  ,Regular,5 (Medium),400 (Normal),9,4735,4737
+新蒂下午茶体 (Regular),新蒂下午茶体,Regular,,,Version 1.00 April 1 2016 initial release,XD  ,Regular,5 (Medium),400 (Normal),48,10555,10557
+新蒂小丸子体 (Regular),新蒂小丸子体,Regular,,,Version 1.00 December 14 2015 initial release,XD  ,Regular,5 (Medium),400 (Normal),21,10050,10050
+新蒂雪山体 (Regular),新蒂雪山体,Regular,,,Version 1.00 January 17 2016 initial release,XD  ,Regular,5 (Medium),400 (Normal),11,11185,11185
+新蒂赵孟頫体 (Regular),新蒂赵孟頫体,Regular,,,Version 1.00 April 1 2016 initial release,XD  ,Regular,5 (Medium),400 (Normal),23,22247,22274
