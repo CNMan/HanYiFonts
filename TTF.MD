@@ -621,6 +621,9 @@
 |HYYiSongJ.ttf|HYYiSongJ Regular|HYYiSongJ|HYYiSongJ|Regular|5.00|
 |HYYiSongW.ttf|HYYiSongW Regular|HYYiSongW|HYYiSongW|Regular|5.00|
 |HYYouRanTiJ.ttf|HYYouRanTiJ Regular|HYYouRanTiJ|HYYouRanTiJ|Regular|5.00|
+|HYYouYuanTiF.ttf|HYYouYuanTiF|HYYouYuanTiF|HYYouYuanTiF|Regular|5.00|
+|HYYouYuanTiJ.ttf|HYYouYuanTiJ|HYYouYuanTiJ|HYYouYuanTiJ|Regular|5.00|
+|HYYouYuanTiW.ttf|HYYouYuanTiW|HYYouYuanTiW|HYYouYuanTiW|Regular|5.00|
 |HYYuanDieTiF.ttf|HYYuanDieF|HYb8gf|HYYuanDieF|Regular|3.53|
 |HYYuanDieTiJ.ttf|HYYuanDieJ|HYb8gj|HYYuanDieJ|Regular|3.53|
 |HYYuanLongHei-35J.ttf|HYYuanLongHei-35J Thin|HYYuanLongHei-CEJ|HYYuanLongHei-35J|Thin|5.00|
