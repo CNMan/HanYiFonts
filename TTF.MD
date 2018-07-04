@@ -117,7 +117,9 @@
 |HYHaiWenTiF.ttf|HYHaiWenF|HYg5gf|HYHaiWenF|Regular|3.53|
 |HYHaiWenTiJ.ttf|HYHaiWenJ|HYg5gj|HYHaiWenJ|Regular|3.53|
 |HYHaiYunTiJ.ttf|HYHaiYunJ|HYk3gj|HYHaiYunJ|Regular|3.53|
+|HYHalloweenF.ttf|HYHalloweenF|HYHalloweenF|HYHalloweenF|Regular|5.00|
 |HYHalloweenJ.ttf|HYHalloweenJ|HYHalloweenJ|HYHalloweenJ|Regular|5.00|
+|HYHalloweenW.ttf|HYHalloweenW|HYHalloweenW|HYHalloweenW|Regular|5.00|
 |HYHanHeiW.ttf|HYHanHeiW|HYHanHeiW|HYHanHeiW|Regular|5.00|
 |HYHanShiCuTiF.ttf|HYHanShiCuTiF Regular|HYHanShiCuTiF|HYHanShiCuTiF|Regular|5.00|
 |HYHanShiCuTiJ.ttf|HYHanShiCuTiJ Regular|HYHanShiCuTiJ|HYHanShiCuTiJ|Regular|5.00|
@@ -164,6 +166,9 @@
 |HYLiangPinXianJ.ttf|HYLiangPinXianJ Regular|HYLiangPinXianJ|HYLiangPinXianJ|Regular|5.00|
 |HYLiHeiJ.ttf|HYLiHeiJ|HYt4gj|HYLiHeiJ|Regular|3.53|
 |HYLiLiangHeiJ.ttf|HYLiLiangHeiJ Regular|HYLiLiangHeiJ|HYLiLiangHeiJ|Regular|5.00|
+|HYLiLiTiF.ttf|HYLiLiTiF|HYLiLiTiF|HYLiLiTiF|Regular|5.00|
+|HYLiLiTiJ.ttf|HYLiLiTiJ|HYLiLiTiJ|HYLiLiTiJ|Regular|5.00|
+|HYLiLiTiW.ttf|HYLiLiTiW|HYLiLiTiW|HYLiLiTiW|Regular|5.00|
 |HYLingBoTiF.ttf|HYLingBoF|HYr1gf|HYLingBoF|Regular|3.53|
 |HYLingBoTiJ.ttf|HYLingBoJ|HYr1gj|HYLingBoJ|Regular|3.53|
 |HYLingXinTiF.ttf|HYLingXinF|HYk2gf|HYLingXinF|Regular|3.53|
