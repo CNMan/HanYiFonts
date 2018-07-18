@@ -418,6 +418,9 @@
 |HYQiHeiY4-95W.ttf|HYQiHeiY4-95W ExtraBlack|HYQiHeiY4-IEW|HYQiHeiY4-95W|ExtraBlack|5.00|
 |HYQiLinTiF.ttf|HYQiLinF|HYo4gf|HYQiLinF|Regular|3.53|
 |HYQiLinTiJ.ttf|HYQiLinJ|HYo4gj|HYQiLinJ|Regular|3.53|
+|HYQinChuanFeiYingF.ttf|HYQinChuanFeiYingF|HYQinChuanFeiYingF|HYQinChuanFeiYingF|Regular|5.00|
+|HYQinChuanFeiYingJ.ttf|HYQinChuanFeiYingJ|HYQinChuanFeiYingJ|HYQinChuanFeiYingJ|Regular|5.00|
+|HYQinChuanFeiYingW.ttf|HYQinChuanFeiYingW|HYQinChuanFeiYingW|HYQinChuanFeiYingW|Regular|5.00|
 |HYQinChuanShouShuF.ttf|HYQinChuanShouShuF|HYQinChuanShouShuF|HYQinChuanShouShuF|Regular|5.00|
 |HYQinChuanShouShuJ.ttf|HYQinChuanShouShuJ|HYQinChuanShouShuJ|HYQinChuanShouShuJ|Regular|5.00|
 |HYQinChuanShouShuW.ttf|HYQinChuanShouShuW|HYQinChuanShouShuW|HYQinChuanShouShuW|Regular|5.00|
