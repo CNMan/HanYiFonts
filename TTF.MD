@@ -149,9 +149,9 @@
 |HYJinKaiJ.ttf|HYJinKaiJ Regular|HYJinKaiJ|HYJinKaiJ|Regular|5.00|
 |HYJunHei-35W.ttf|HYJunHei-35W|HYJunHei-CEW|HYJunHei-35W|Regular|5.00|
 |HYJunHei-45W.ttf|HYJunHei-45W|HYJunHei-DEW|HYJunHei-45W|Regular|5.00|
-|HYJunHei-55W.ttf|HYJunHei-55W|HYJunHei-EEW|HYJunHei-55W|Regular|5.00|
-|HYJunHei-65W.ttf|HYJunHei-65W|HYJunHei-FEW|HYJunHei-65W|Regular|5.00|
-|HYJunHei-75W.ttf|HYJunHei-75W|HYJunHei-GEW|HYJunHei-75W|Regular|5.00|
+|HYJunHei-55W.ttf|HYJunHei-55W|HYJunHei-EEW|HYJunHei-55W|Regular|5.001|
+|HYJunHei-65W.ttf|HYJunHei-65W|HYJunHei-FEW|HYJunHei-65W|Regular|5.001|
+|HYJunHei-75W.ttf|HYJunHei-75W|HYJunHei-GEW|HYJunHei-75W|Regular|5.001|
 |HYJunHei-85W.ttf|HYJunHei-85W|HYJunHei-HEW|HYJunHei-85W|Regular|5.00|
 |HYJunPoLiF.ttf|HYJunPoLiF|HYJunPoLiF|HYJunPoLiF|Regular|5.00|
 |HYJunPoLiJ.ttf|HYJunPoLiJ|HYJunPoLiJ|HYJunPoLiJ|Regular|5.00|
@@ -646,10 +646,17 @@
 |HYZhangZiShanTiF.ttf|HYZhangZiShanTiF Regular|HYZhangZiShanTiF|HYZhangZiShanTiF|Regular|5.00|
 |HYZhangZiShanTiJ.ttf|HYZhangZiShanTiJ Regular|HYZhangZiShanTiJ|HYZhangZiShanTiJ|Regular|5.00|
 |HYZhangZiShanTiW.ttf|HYZhangZiShanTiW Regular|HYZhangZiShanTiW|HYZhangZiShanTiW|Regular|5.00|
+|HYZhengYuan-35W.ttf|HYZhengYuan-35W|HYZhengYuan-CEW|HYZhengYuan-35W|Regular|5.01|
+|HYZhengYuan-45W.ttf|HYZhengYuan-45W|HYZhengYuan-DEW|HYZhengYuan-45W|Regular|5.01|
 |HYZhengYuan-55F.ttf|HYZhengYuan-55F|HYZhengYuan-EEF|HYZhengYuan 55F|Regular|5.00|
 |HYZhengYuan-55J.ttf|HYZhengYuan-55J|HYZhengYuan-EEJ|HYZhengYuan 55J|Regular|5.00|
+|HYZhengYuan-55W.ttf|HYZhengYuan-55W|HYZhengYuan-EEW|HYZhengYuan-55W|Regular|5.01|
+|HYZhengYuan-65W.ttf|HYZhengYuan-65W|HYZhengYuan-FEW|HYZhengYuan-65W|Regular|5.01|
 |HYZhengYuan-75F.ttf|HYZhengYuan-75F|HYZhengYuan-GEF|HYZhengYuan 75F|Regular|5.00|
 |HYZhengYuan-75J.ttf|HYZhengYuan-75J|HYZhengYuan-GEJ|HYZhengYuan 75J|Regular|5.00|
+|HYZhengYuan-75W.ttf|HYZhengYuan-75W|HYZhengYuan-GEW|HYZhengYuan-75W|Regular|5.01|
+|HYZhengYuan-85W.ttf|HYZhengYuan-85W|HYZhengYuan-HEW|HYZhengYuan-85W|Regular|5.01|
+|HYZhengYuan-95W.ttf|HYZhengYuan-95W|HYZhengYuan-IEW|HYZhengYuan-95W|Regular|5.01|
 |HYZhenZhuLiF.ttf|HYZhenZhuLiF|HYs7gf|HYZhenZhuLiF|Regular|3.53|
 |HYZhenZhuLiJ.ttf|HYZhenZhuLiJ|HYs7gj|HYZhenZhuLiJ|Regular|3.53|
 |HYZhongDengXianB5.ttf|HYZhongDengXianB5 Regular|HYZhongDengXianB5|HYZhongDengXianB5|Regular|5.00|
