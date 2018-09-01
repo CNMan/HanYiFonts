@@ -592,6 +592,9 @@
 |HYXinRenWenSongF.ttf|HYXinRenWenSongF Regular|HYXinRenWenSongF|HYXinRenWenSongF|Regular|5.00|
 |HYXinRenWenSongJ.ttf|HYXinRenWenSongJ Regular|HYXinRenWenSongJ|HYXinRenWenSongJ|Regular|5.00|
 |HYXinRenWenSongW.ttf|HYXinRenWenSongW Regular|HYXinRenWenSongW|HYXinRenWenSongW|Regular|5.00|
+|HYXinXiuTiF.ttf|HYXinXiuTiF|HYXinXiuTiF|HYXinXiuTiF|Regular|5.00|
+|HYXinXiuTiJ.ttf|HYXinXiuTiJ|HYXinXiuTiJ|HYXinXiuTiJ|Regular|5.00|
+|HYXinXiuTiW.ttf|HYXinXiuTiW|HYXinXiuTiW|HYXinXiuTiW|Regular|5.00|
 |HYXiuYingTiF.ttf|HYXiuYingF|HYy1gf|HYXiuYingF|Regular|3.53|
 |HYXiuYingTiJ.ttf|HYXiuYingJ|HYy1gj|HYXiuYingJ|Regular|3.53|
 |HYXiXingKaiB5.ttf|HYXiXingKaiB5 Regular|HYXiXingKaiB5|HYXiXingKaiB5|Regular|5.00|
@@ -642,6 +645,9 @@
 |HYYouYuanTiW.ttf|HYYouYuanTiW|HYYouYuanTiW|HYYouYuanTiW|Regular|5.00|
 |HYYuanDieTiF.ttf|HYYuanDieF|HYb8gf|HYYuanDieF|Regular|3.53|
 |HYYuanDieTiJ.ttf|HYYuanDieJ|HYb8gj|HYYuanDieJ|Regular|3.53|
+|HYYuanLongHei-105F.ttf|HYYuanLongHei-105F|HYYuanLongHei-AZEF|HYYuanLongHei-105F|Regular|5.00|
+|HYYuanLongHei-105J.ttf|HYYuanLongHei-105J|HYYuanLongHei-AZEJ|HYYuanLongHei-105J|Regular|5.00|
+|HYYuanLongHei-105W.ttf|HYYuanLongHei-105W|HYYuanLongHei-AZEW|HYYuanLongHei-105W|Regular|5.00|
 |HYYuanLongHei-35J.ttf|HYYuanLongHei-35J Thin|HYYuanLongHei-CEJ|HYYuanLongHei-35J|Thin|5.00|
 |HYYuanLongHei-85F.ttf|HYYuanLongHei-85F|HYYuanLongHei-85F|HYYuanLongHei-85F|Regular|5.00|
 |HYYuanLongHei-85J.ttf|HYYuanLongHei-85J|HYYuanLongHei-85J|HYYuanLongHei-85J|Regular|5.00|
