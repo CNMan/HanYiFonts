@@ -475,6 +475,8 @@
 |HYShangWeiQingChaTiF.ttf|HYShangWeiQingChaTiF|HYShangWeiQingChaTiF|HYShangWeiQingChaTiF|Regular|5.00|
 |HYShangWeiQingChaTiJ.ttf|HYShangWeiQingChaTiJ|HYShangWeiQingChaTiJ|HYShangWeiQingChaTiJ|Regular|5.00|
 |HYShangWeiQingChaTiW.ttf|HYShangWeiQingChaTiW Regular|HYShangWeiQingChaTiW|HYShangWeiQingChaTiW|Regular|5.00|
+|HYShangWeiShaoNianTiF.ttf|HYShangWeiShaoNianTiF|HYShangWeiShaoNianTiF|HYShangWeiShaoNianTiF|Regular|5.00|
+|HYShangWeiShaoNianTiJ.ttf|HYShangWeiShaoNianTiJ|HYShangWeiShaoNianTiJ|HYShangWeiShaoNianTiJ|Regular|5.00|
 |HYShangWeiShaoNianTiW.ttf|HYShangWeiShaoNianTiW Regular|HYShangWeiShaoNianTiW|HYShangWeiShaoNianTiW|Regular|5.00|
 |HYShangWeiShouShuF.ttf|HYShangWeiShouShuF Regular|HYShangWeiShouShuF|HYShangWeiShouShuF|Regular|5.00|
 |HYShangWeiShouShuJ.ttf|HYShangWeiShouShuJ Regular|HYShangWeiShouShuJ|HYShangWeiShouShuJ|Regular|5.00|
