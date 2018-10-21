@@ -629,7 +629,7 @@
 |HYYanKaiF.1.ttf|HYYanKaiF|HYx4gf|HYYanKaiF|Regular|3.53|
 |HYYanKaiF.ttf|HYYanKaiF|HYYanKaiF|HYYanKaiF|Regular|5.00|
 |HYYanKaiJ.ttf|HYYanKaiJ|HYYanKaiJ|HYYanKaiJ|Regular|5.00|
-|HYYanKaiW.ttf|HYYankaiW Regular|HYYankaiW|HYYankaiW|Regular|5.00|
+|HYYanKaiW.ttf|HYYanKaiW Regular|HYYanKaiW|HYYanKaiW|Regular|5.01|
 |HYYanLingTiJ.ttf|HYYanLingJ|HYf4gj|HYYanLingJ|Regular|3.53|
 |HYYanRuiMinXingKaiF.ttf|HYYanRuiMinXingKaiF Regular|HYYanRuiMinXingKaiF|HYYanRuiMinXingKaiF|Regular|5.00|
 |HYYanRuiMinXingKaiJ.ttf|HYYanRuiMinXingKaiJ Regular|HYYanRuiMinXingKaiJ|HYYanRuiMinXingKaiJ|Regular|5.00|
