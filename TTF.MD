@@ -10,8 +10,12 @@
 |Blackie.ttf|Blackie Regular|Blackie|Blackie|Regular|6.00|
 |Elgatino.ttf|Elgatino|Elgatino|Elgatino|Regular|6.00|
 |HanyiSentyJournal.ttf|Hanyi Senty Journal|HanyiSentyJournal|Hanyi Senty Journal|Regular|1.00;January 7, 2018;FontCreator 11.0.0.2408 64-bit|
+|HanyiSentyMeadow.ttf|Hanyi Senty Meadow|HanyiSentyMeadow|Hanyi Senty Meadow|Regular|1.00;November 29, 2018;FontCreator 11.5.0.2427 64-bit|
 |HanyiSentyYongleEncyclopedia.ttf|Hanyi Senty Yongle Encyclopedia|HanyiSentyYongleEncyclopedia|Hanyi Senty Yongle Encyclopedia|Regular|1.00;April 7|
 |HYAlzheimer.ttf|HYAlzheimer|HYAlzheimer|HYAlzheimer|Regular|5.00|
+|HYBaiJiHuoYunTiF.ttf|HYBaiJiHuoYunTiF|HYBaiJiHuoYunTiF|HYBaiJiHuoYunTiF|Regular|5.00|
+|HYBaiJiHuoYunTiJ.ttf|HYBaiJiHuoYunTiJ|HYBaiJiHuoYunTiJ|HYBaiJiHuoYunTiJ|Regular|5.00|
+|HYBaiJiHuoYunTiW.ttf|HYBaiJiHuoYunTiW|HYBaiJiHuoYunTiW|HYBaiJiHuoYunTiW|Regular|5.00|
 |HYBaiQingTiF.ttf|HYBaiQingF|HYj4gf|HYBaiQingF|Regular|3.53|
 |HYBaiQingTiJ.ttf|HYBaiQingJ|HYj4gj|HYBaiQingJ|Regular|3.53|
 |HYBaiQiTiJ.ttf|HYBaiQiJ|HYm5gj|HYBaiQiJ|Regular|3.53|
@@ -20,6 +24,9 @@
 |HYBeiWeiXieJingF.ttf|HYBeiWeiXieJingF|HYBeiWeiXieJingF|HYBeiWeiXieJingF|Regular|5.00|
 |HYBeiWeiXieJingJ.ttf|HYBeiWeiXieJingJ|HYBeiWeiXieJingJ|HYBeiWeiXieJingJ|Regular|5.00|
 |HYBeiWeiXieJingW.ttf|HYBeiWeiXieJingW|HYBeiWeiXieJingW|HYBeiWeiXieJingW|Regular|5.00|
+|HYBOBOXianShengF.ttf|HYBOBOXianShengF|HYBOBOXianShengF|HYBOBOXianShengF|Regular|5.00|
+|HYBOBOXianShengJ.ttf|HYBOBOXianShengJ|HYBOBOXianShengJ|HYBOBOXianShengJ|Regular|5.00|
+|HYBOBOXianShengW.ttf|HYBOBOXianShengW|HYBOBOXianShengW|HYBOBOXianShengW|Regular|5.00|
 |HYBoJingTiJ.ttf|HYBoJingTiJ Regular|HYBoJingTiJ|HYBoJingTiJ|Regular|5.01|
 |HYBoJingTiW.ttf|HYBoJingTiW|HYBoJingTiW|HYBoJingTiW Regular|Regular|5.00|
 |HYCaiDieTiJ.ttf|HYCaiDieJ|HYk5gj|HYCaiDieJ|Regular|3.53|
@@ -746,6 +753,9 @@
 |HYZiYanHuanLeSongF.ttf|HYZiYanHuanLeSongF|HYZiYanHuanLeSongF|HYZiYanHuanLeSongF|Regular|5.00|
 |HYZiYanHuanLeSongJ.ttf|HYZiYanHuanLeSongJ|HYZiYanHuanLeSongJ|HYZiYanHuanLeSongJ|Regular|5.00|
 |HYZiYanHuanLeSongW.ttf|HYZiYanHuanLeSongW|HYZiYanHuanLeSongW|HYZiYanHuanLeSongW|Regular|5.00|
+|HYZiYanKaTongF.ttf|HYZiYanKaTongF|HYZiYanKaTongF|HYZiYanKaTongF|Regular|5.00|
+|HYZiYanKaTongJ.ttf|HYZiYanKaTongJ|HYZiYanKaTongJ|HYZiYanKaTongJ|Regular|5.00|
+|HYZiYanKaTongW.ttf|HYZiYanKaTongW|HYZiYanKaTongW|HYZiYanKaTongW|Regular|5.00|
 |HYZongYiTiF.ttf|HYZongYiF|HYk1gf|HYZongYiF|Regular|3.53|
 |HYZongYiTiJ.ttf|HYZongYiJ|HYk1gj|HYZongYiJ|Regular|3.53|
 |Ink Chancery.ttf|Ink Chancery Regular|InkChancery|Ink Chancery|Regular|6.00|
@@ -775,3 +785,4 @@
 |SentyWEN.ttf|SentyWen|SentyWen|SentyWen|Regular|1.00 November 22, 2016, initial release|
 |SentyZHAO.ttf|SentyZHAO 新蒂赵孟頫|SentyZHAO|SentyZHAO 新蒂赵孟頫|Regular|1.00 April 1, 2016, initial release|
 |Toshiyana.ttf|Toshiyana|Toshiyana|Toshiyana|Regular|6.00|
+|新蒂维摩诘经.ttf|HanyiSentyVimalakirti|HanyiSentyVimalakirti|HanyiSentyVimalakirti|Regular|1.00;November 29, 2018;FontCreator 11.5.0.2427 64-bit|
