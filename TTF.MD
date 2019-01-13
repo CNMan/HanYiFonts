@@ -10,7 +10,7 @@
 |Blackie.ttf|Blackie Regular|Blackie|Blackie|Regular|6.00|
 |Elgatino.ttf|Elgatino|Elgatino|Elgatino|Regular|6.00|
 |HanyiSentyJournal.ttf|Hanyi Senty Journal|HanyiSentyJournal|Hanyi Senty Journal|Regular|1.00;January 7, 2018;FontCreator 11.0.0.2408 64-bit|
-|HanyiSentyMeadow.ttf|Hanyi Senty Meadow|HanyiSentyMeadow|Hanyi Senty Meadow|Regular|1.00;November 29, 2018;FontCreator 11.5.0.2427 64-bit|
+|HanyiSentyMeadow.ttf|Hanyi Senty Meadow|HanyiSentyMeadow|Hanyi Senty Meadow|Regular|1.00;January 5, 2019;FontCreator 11.5.0.2430 64-bit|
 |HanyiSentyYongleEncyclopedia.ttf|Hanyi Senty Yongle Encyclopedia|HanyiSentyYongleEncyclopedia|Hanyi Senty Yongle Encyclopedia|Regular|1.00;April 7|
 |HYAlzheimer.ttf|HYAlzheimer|HYAlzheimer|HYAlzheimer|Regular|5.00|
 |HYBaiJiHuoYunTiF.ttf|HYBaiJiHuoYunTiF|HYBaiJiHuoYunTiF|HYBaiJiHuoYunTiF|Regular|5.00|
@@ -177,6 +177,9 @@
 |HYLeMiaoTiW.ttf|HYLeMiaoTiW Regular|HYLeMiaoTiW|HYLeMiaoTiW|Regular|5.00|
 |HYLiangPinXianCuJ.ttf|HYLiangPinXianCuJ Regular|HYLiangPinXianCuJ|HYLiangPinXianCuJ|Regular|5.00|
 |HYLiangPinXianJ.ttf|HYLiangPinXianJ Regular|HYLiangPinXianJ|HYLiangPinXianJ|Regular|5.00|
+|HYLiGuoXingXingKaiF.ttf|HYLiGuoXingXingKaiF|HYLiGuoXingXingKaiF|HYLiGuoXingXingKaiF|Regular|5.00|
+|HYLiGuoXingXingKaiJ.ttf|HYLiGuoXingXingKaiJ|HYLiGuoXingXingKaiJ|HYLiGuoXingXingKaiJ|Regular|5.00|
+|HYLiGuoXingXingKaiW.ttf|HYLiGuoXingXingKaiW|HYLiGuoXingXingKaiW|HYLiGuoXingXingKaiW|Regular|5.00|
 |HYLiHeiJ.ttf|HYLiHeiJ|HYt4gj|HYLiHeiJ|Regular|3.53|
 |HYLiLiangHeiJ.ttf|HYLiLiangHeiJ Regular|HYLiLiangHeiJ|HYLiLiangHeiJ|Regular|5.00|
 |HYLiLiTiF.ttf|HYLiLiTiF|HYLiLiTiF|HYLiLiTiF|Regular|5.00|
@@ -791,4 +794,4 @@
 |SentyWEN.ttf|SentyWen|SentyWen|SentyWen|Regular|1.00 November 22, 2016, initial release|
 |SentyZHAO.ttf|SentyZHAO 新蒂赵孟頫|SentyZHAO|SentyZHAO 新蒂赵孟頫|Regular|1.00 April 1, 2016, initial release|
 |Toshiyana.ttf|Toshiyana|Toshiyana|Toshiyana|Regular|6.00|
-|新蒂维摩诘经.ttf|HanyiSentyVimalakirti|HanyiSentyVimalakirti|HanyiSentyVimalakirti|Regular|1.00;November 29, 2018;FontCreator 11.5.0.2427 64-bit|
+|新蒂维摩诘经.ttf|HanyiSentyVimalakirti|HanyiSentyVimalakirti|HanyiSentyVimalakirti|Regular|1.00;December 30, 2018;FontCreator 11.5.0.2430 64-bit|
