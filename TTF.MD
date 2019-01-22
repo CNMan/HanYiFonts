@@ -9,8 +9,12 @@
 |Basileia.ttf|Basileia|Basileia|Basileia|Regular|6.00|
 |Blackie.ttf|Blackie Regular|Blackie|Blackie|Regular|6.00|
 |Elgatino.ttf|Elgatino|Elgatino|Elgatino|Regular|6.00|
+|HanyiSentyDiary.ttf|Hanyi Senty Diary|HanyiSentyDiary|Hanyi Senty Diary|Regular|1.00;July 27, 2018;FontCreator 11.5.0.2427 64-bit|
+|HanyiSentyFlorCalligraphy.ttf|Hanyi Senty Floral Calligraphy|HanyiSentyFloralCalligraphy|Hanyi Senty Floral Calligraphy|Regular|1.00;December 26, 2018;FontCreator 11.5.0.2430 64-bit|
 |HanyiSentyJournal.ttf|Hanyi Senty Journal|HanyiSentyJournal|Hanyi Senty Journal|Regular|1.00;January 7, 2018;FontCreator 11.0.0.2408 64-bit|
+|HanyiSentyLotus.ttf|Hanyi Senty Lotus|HanyiSentyLotus|Hanyi Senty Lotus|Regular|1.00;January 10, 2019;FontCreator 11.5.0.2430 64-bit|
 |HanyiSentyMeadow.ttf|Hanyi Senty Meadow|HanyiSentyMeadow|Hanyi Senty Meadow|Regular|1.00;January 5, 2019;FontCreator 11.5.0.2430 64-bit|
+|HanyiSentySIlkRoad.ttf|Hanyi Senty Silk Road|HanyiSentySilkRoad|Hanyi Senty Silk Road|Regular|1.00;December 9, 2018;FontCreator 11.5.0.2427 64-bit|
 |HanyiSentyYongleEncyclopedia.ttf|Hanyi Senty Yongle Encyclopedia|HanyiSentyYongleEncyclopedia|Hanyi Senty Yongle Encyclopedia|Regular|1.00;April 7|
 |HYAlzheimer.ttf|HYAlzheimer|HYAlzheimer|HYAlzheimer|Regular|5.00|
 |HYBaiJiHuoYunTiF.ttf|HYBaiJiHuoYunTiF|HYBaiJiHuoYunTiF|HYBaiJiHuoYunTiF|Regular|5.00|
@@ -532,6 +536,12 @@
 |HYSunWanMinCaoShuF.ttf|HYSunWanMinCaoShuF|HYSunWanMinCaoShuF|HYSunWanMinCaoShuF|Regular|5.00|
 |HYSunWanMinCaoShuJ.ttf|HYSunWanMinCaoShuJ|HYSunWanMinCaoShuJ|HYSunWanMinCaoShuJ|Regular|5.00|
 |HYSunWanMinCaoShuW.ttf|HYSunWanMinCaoShuW|HYSunWanMinCaoShuW|HYSunWanMinCaoShuW|Regular|5.00|
+|HYSuZeLiXingKaiOriginalF.ttf|HYSuZeLiXingKaiOriginalF|HYSuZeLiXingKaiOriginalF|HYSuZeLiXingKaiOriginalF|Regular|5.01|
+|HYSuZeLiXingKaiOriginalJ.ttf|HYSuZeLiXingKaiOriginalJ|HYSuZeLiXingKaiOriginalJ|HYSuZeLiXingKaiOriginalJ|Regular|5.01|
+|HYSuZeLiXingKaiOriginalW.ttf|HYSuZeLiXingKaiOriginalW|HYSuZeLiXingKaiOriginalW|HYSuZeLiXingKaiOriginalW|Regular|5.01|
+|HYSuZeLiXingKaiTruingF.ttf|HYSuZeLiXingKaiTruingF|HYSuZeLiXingKaiTruingF|HYSuZeLiXingKaiTruingF|Regular|5.00|
+|HYSuZeLiXingKaiTruingJ.ttf|HYSuZeLiXingKaiTruingJ|HYSuZeLiXingKaiTruingJ|HYSuZeLiXingKaiTruingJ|Regular|5.00|
+|HYSuZeLiXingKaiTruingW.ttf|HYSuZeLiXingKaiTruingW|HYSuZeLiXingKaiTruingW|HYSuZeLiXingKaiTruingW|Regular|5.00|
 |HYSuZeLiXingShuOriginalF.ttf|HYSuZeLiXingShuOriginalF|HYSuZeLiXingShuOriginalF|HYSuZeLiXingShuOriginalF|Regular|5.00|
 |HYSuZeLiXingShuOriginalJ.ttf|HYSuZeLiXingShuOriginalJ|HYSuZeLiXingShuOriginalJ|HYSuZeLiXingShuOriginalJ|Regular|5.00|
 |HYSuZeLiXingShuOriginalW.ttf|HYSuZeLiXingShuOriginalW|HYSuZeLiXingShuOriginalW|HYSuZeLiXingShuOriginalW|Regular|5.00|
@@ -545,6 +555,9 @@
 |HYTianXinTiF.ttf|HYTianXinTiF|HYTianXinTiF|HYTianXinTiF|Regular|5.00|
 |HYTianXinTiJ.ttf|HYTianXinTiJ|HYTianXinTiJ|HYTianXinTiJ|Regular|5.00|
 |HYTianXinTiW.ttf|HYTianXinTiW|HYTianXinTiW|HYTianXinTiW|Regular|5.00|
+|HYTianYuFengXingTiF.ttf|HYTianYuFengXingTiF|HYTianYuFengXingTiF|HYTianYuFengXingTiF|Regular|5.00|
+|HYTianYuFengXingTiJ.ttf|HYTianYuFengXingTiJ|HYTianYuFengXingTiJ|HYTianYuFengXingTiJ|Regular|5.00|
+|HYTianYuFengXingTiW.ttf|HYTianYuFengXingTiW|HYTianYuFengXingTiW|HYTianYuFengXingTiW|Regular|5.00|
 |HYTiaoTiaoTiJ.ttf|HYTiaoTiaoTiJ Regular|HYTiaoTiaoTiJ|HYTiaoTiaoTiJ|Regular|5.00|
 |HYTieShanLiShuF.ttf|HYTieShanLiShuF Regular|HYTieShanLiShuF|HYTieShanLiShuF|Regular|5.00|
 |HYTieShanLiShuJ.ttf|HYTieShanLiShuJ Regular|HYTieShanLiShuJ|HYTieShanLiShuJ|Regular|5.00|
@@ -790,8 +803,8 @@
 |SentyTang.ttf|SentyTang|SentyTang|SentyTang|Regular|1.00 June 13, 2015, initial release|
 |SentyTEA-Basic.ttf|SentyTEA-basic|SentyTEA-basic|SentyTEA-basic|Regular|1.00 December 31, 2012, initial release|
 |SentyTEA.ttf|SentyTEA 新蒂下午茶体|SentyTEA|SentyTEA 新蒂下午茶体|Regular|1.00 April 1, 2016, initial release|
-|SentyTriumphCalligraphy.ttf|Hanyi Senty Triumph Calligraphy|HanyiSentyTriumphCalligraphy|Hanyi Senty Triumph Calligraphy|Regular|1.00|
-|SentyWEN.ttf|SentyWen|SentyWen|SentyWen|Regular|1.00 November 22, 2016, initial release|
-|SentyZHAO.ttf|SentyZHAO 新蒂赵孟頫|SentyZHAO|SentyZHAO 新蒂赵孟頫|Regular|1.00 April 1, 2016, initial release|
+|SentyTriumphCalligraphy.ttf|Hanyi Senty Triumph Calligraphy|HanyiSentyTriumphCalligraphy|Hanyi Senty Triumph Calligraphy|Regular|1.00;January 17, 2019;FontCreator 11.5.0.2430 64-bit|
+|SentyWEN.ttf|HanyiSentyWen|HanyiSentyWen|HanyiSentyWen|Regular|1.00;January 17, 2019;FontCreator 11.5.0.2430 64-bit|
+|SentyZHAO.ttf|HanyiSentyZhao|HanyiSentyZhao|HanyiSentyZhao|Regular|1.00;January 17, 2019;FontCreator 11.5.0.2430 64-bit|
 |Toshiyana.ttf|Toshiyana|Toshiyana|Toshiyana|Regular|6.00|
 |新蒂维摩诘经.ttf|HanyiSentyVimalakirti|HanyiSentyVimalakirti|HanyiSentyVimalakirti|Regular|1.00;December 30, 2018;FontCreator 11.5.0.2430 64-bit|
