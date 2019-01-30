@@ -9,13 +9,16 @@
 |Basileia.ttf|Basileia|Basileia|Basileia|Regular|6.00|
 |Blackie.ttf|Blackie Regular|Blackie|Blackie|Regular|6.00|
 |Elgatino.ttf|Elgatino|Elgatino|Elgatino|Regular|6.00|
+|HanyiSentyChalk.ttf|Hanyi Senty Chalk Original|HanyiSentyChalkOriginal|Hanyi Senty Chalk Original|Regular|1.00;December 25, 2017;FontCreator 11.0.0.2408 64-bit|
 |HanyiSentyDiary.ttf|Hanyi Senty Diary|HanyiSentyDiary|Hanyi Senty Diary|Regular|1.00;July 27, 2018;FontCreator 11.5.0.2427 64-bit|
 |HanyiSentyFlorCalligraphy.ttf|Hanyi Senty Floral Calligraphy|HanyiSentyFloralCalligraphy|Hanyi Senty Floral Calligraphy|Regular|1.00;December 26, 2018;FontCreator 11.5.0.2430 64-bit|
-|HanyiSentyJournal.ttf|Hanyi Senty Journal|HanyiSentyJournal|Hanyi Senty Journal|Regular|1.00;January 7, 2018;FontCreator 11.0.0.2408 64-bit|
+|HanyiSentyJournal.ttf|Hanyi Senty Journal|HanyiSentyJournal|Hanyi Senty Journal|Regular|1.00;January 17, 2019;FontCreator 11.5.0.2430 64-bit|
 |HanyiSentyLotus.ttf|Hanyi Senty Lotus|HanyiSentyLotus|Hanyi Senty Lotus|Regular|1.00;January 10, 2019;FontCreator 11.5.0.2430 64-bit|
 |HanyiSentyMeadow.ttf|Hanyi Senty Meadow|HanyiSentyMeadow|Hanyi Senty Meadow|Regular|1.00;January 5, 2019;FontCreator 11.5.0.2430 64-bit|
 |HanyiSentySIlkRoad.ttf|Hanyi Senty Silk Road|HanyiSentySilkRoad|Hanyi Senty Silk Road|Regular|1.00;December 9, 2018;FontCreator 11.5.0.2427 64-bit|
+|HanyiSentyVimalkirti.ttf|Hanyi Senty Vimalakirti|HanyiSentyVimalakirti|Hanyi Senty Vimalakirti|Regular|1.00;January 19, 2019;FontCreator 11.5.0.2430 64-bit|
 |HanyiSentyYongleEncyclopedia.ttf|Hanyi Senty Yongle Encyclopedia|HanyiSentyYongleEncyclopedia|Hanyi Senty Yongle Encyclopedia|Regular|1.00;April 7|
+|HanyiSentyZHAO.ttf|HanyiSentyZhao|HanyiSentyZhao|HanyiSentyZhao|Regular|1.00;January 19, 2019;FontCreator 11.5.0.2430 64-bit|
 |HYAlzheimer.ttf|HYAlzheimer|HYAlzheimer|HYAlzheimer|Regular|5.00|
 |HYBaiJiHuoYunTiF.ttf|HYBaiJiHuoYunTiF|HYBaiJiHuoYunTiF|HYBaiJiHuoYunTiF|Regular|5.00|
 |HYBaiJiHuoYunTiJ.ttf|HYBaiJiHuoYunTiJ|HYBaiJiHuoYunTiJ|HYBaiJiHuoYunTiJ|Regular|5.00|
@@ -88,6 +91,9 @@
 |HYDieYuTiJ.ttf|HYDieYuJ|HYn3gj|HYDieYuJ|Regular|3.53|
 |HYDuDuTiJ.ttf|HYDuDuJ|HYy4gj|HYDuDuJ|Regular|3.53|
 |HYDunHuangXieJingW.ttf|HYDunHuangXieJingW|HYDunHuangXieJingW|HYDunHuangXieJingW|Regular|5.00|
+|HYErMaMoShuF.ttf|HYErMaMoShuF|HYErMaMoShuF|HYErMaMoShuF|Regular|5.00|
+|HYErMaMoShuJ.ttf|HYErMaMoShuJ|HYErMaMoShuJ|HYErMaMoShuJ|Regular|5.00|
+|HYErMaMoShuW.ttf|HYErMaMoShuW|HYErMaMoShuW|HYErMaMoShuW|Regular|5.00|
 |HYFangDieTiF.ttf|HYFangDieF|HYb4gf|HYFangDieF|Regular|3.53|
 |HYFangDieTiJ.ttf|HYFangDieJ|HYb4gj|HYFangDieJ|Regular|3.53|
 |HYFangLiJ.ttf|HYFangLiJ|HYf0gj|HYFangLiJ|Regular|3.53|
@@ -598,6 +604,9 @@
 |HYXiaoBoGangGuJ.ttf|HYXiaoBoGangGuJ|HYXiaoBoGangGuJ|HYXiaoBoGangGuJ|Regular|5.00|
 |HYXiaoBoGangGuW.ttf|HYXiaoBoGangGuW|HYXiaoBoGangGuW|HYXiaoBoGangGuW|Regular|5.00|
 |HYXiaoBoHuaBaoHeiW.ttf|HYXiaoBoHuaBaoHeiW|HYXiaoBoHuaBaoHeiW|HYXiaoBoHuaBaoHeiW|Regular|5.00|
+|HYXiaoBoHuaYueYuanF.ttf|HYXiaoBoHuaYueYuanF|HYXiaoBoHuaYueYuanF|HYXiaoBoHuaYueYuanF|Regular|5.00|
+|HYXiaoBoHuaYueYuanJ.ttf|HYXiaoBoHuaYueYuanJ|HYXiaoBoHuaYueYuanJ|HYXiaoBoHuaYueYuanJ|Regular|5.00|
+|HYXiaoBoHuaYueYuanW.ttf|HYXiaoBoHuaYueYuanW|HYXiaoBoHuaYueYuanW|HYXiaoBoHuaYueYuanW|Regular|5.00|
 |HYXiaoBoMeiYanTiF.ttf|HYXiaoBoMeiYanTiF Regular|HYXiaoBoMeiYanTiF|HYXiaoBoMeiYanTiF|Regular|5.00|
 |HYXiaoBoMeiYanTiJ.ttf|HYXiaoBoMeiYanTiJ Regular|HYXiaoBoMeiYanTiJ|HYXiaoBoMeiYanTiJ|Regular|5.00|
 |HYXiaoBoMeiYanTiW.ttf|HYXiaoBoMeiYanTiW Regular|HYXiaoBoMeiYanTiW|HYXiaoBoMeiYanTiW|Regular|5.00|
