@@ -89,6 +89,9 @@
 |HYDianYaTiF.ttf|HYDianYaTiF Regular|HYDianYaTiF|HYDianYaTiF|Regular|5.00|
 |HYDianYaTiJ.ttf|HYDianYaTiJ Regular|HYDianYaTiJ|HYDianYaTiJ|Regular|5.00|
 |HYDieYuTiJ.ttf|HYDieYuJ|HYn3gj|HYDieYuJ|Regular|3.53|
+|HYDiShengYingXiongTiF.ttf|HYDiShengYingXiongTiF|HYDiShengYingXiongTiF|HYDiShengYingXiongTiF|Regular|5.00|
+|HYDiShengYingXiongTiJ.ttf|HYDiShengYingXiongTiJ|HYDiShengYingXiongTiJ|HYDiShengYingXiongTiJ|Regular|5.00|
+|HYDiShengYingXiongTiW.ttf|HYDiShengYingXiongTiW|HYDiShengYingXiongTiW|HYDiShengYingXiongTiW|Regular|5.00|
 |HYDuDuTiJ.ttf|HYDuDuJ|HYy4gj|HYDuDuJ|Regular|3.53|
 |HYDunHuangXieJingW.ttf|HYDunHuangXieJingW|HYDunHuangXieJingW|HYDunHuangXieJingW|Regular|5.00|
 |HYErMaMoShuF.ttf|HYErMaMoShuF|HYErMaMoShuF|HYErMaMoShuF|Regular|5.00|
