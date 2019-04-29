@@ -1,5 +1,10 @@
 |FileName|FullName|PostScriptName|Family|SubFamily|Version|
 |-------|-------|-------|-------|-------|-------|
+|Alibaba-PuHuiTi-Bold.ttf|Alibaba-PuHuiTi-B|Alibaba-PuHuiTi-B|Alibaba PuHuiTi B|Bold|1.00|
+|Alibaba-PuHuiTi-Heavy.ttf|Alibaba-PuHuiTi-H|Alibaba-PuHuiTi-H|Alibaba PuHuiTi H|Regular|1.00|
+|Alibaba-PuHuiTi-Light.ttf|Alibaba-PuHuiTi-L|Alibaba-PuHuiTi-L|Alibaba PuHuiTi L|Regular|1.00|
+|Alibaba-PuHuiTi-Medium.ttf|Alibaba-PuHuiTi-M|Alibaba-PuHuiTi-M|Alibaba PuHuiTi M|Regular|1.00|
+|Alibaba-PuHuiTi-Regular.ttf|Alibaba-PuHuiTi-R|Alibaba-PuHuiTi-R|Alibaba PuHuiTi R|Regular|1.00|
 |AliHYAiHei-Beta.ttf|AliHYAiHei-Beta|AliHYAiHei-Beta|AliHYAiHei-Beta|Regular|5.00|
 |AliHYAiHei.ttf|AliHYAiHei|AliHYAiHei|AliHYAiHei|Regular|5.00|
 |Amy.ttf|Amy|Amy|Amy|Regular|6.00|
