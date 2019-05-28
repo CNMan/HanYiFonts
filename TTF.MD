@@ -15,14 +15,24 @@
 |Blackie.ttf|Blackie Regular|Blackie|Blackie|Regular|6.00|
 |Elgatino.ttf|Elgatino|Elgatino|Elgatino|Regular|6.00|
 |HanyiSentyChalk.ttf|Hanyi Senty Chalk Original|HanyiSentyChalkOriginal|Hanyi Senty Chalk Original|Regular|1.00;December 25, 2017;FontCreator 11.0.0.2408 64-bit|
+|HanyiSentyCrayon.ttf|HanyiSentyCrayon|HanyiSentyCrayon|HanyiSentyCrayon|Regular|1.00;April 9, 2019;FontCreator 11.5.0.2430 64-bit|
 |HanyiSentyDiary.ttf|Hanyi Senty Diary|HanyiSentyDiary|Hanyi Senty Diary|Regular|1.00;July 27, 2018;FontCreator 11.5.0.2427 64-bit|
+|HanyiSentyFingerPainting.ttf|HanyiSentyFingerPainting|HanyiSentyFingerPainting|HanyiSentyFingerPainting|Regular|1.00;April 8, 2019;FontCreator 11.5.0.2430 64-bit|
 |HanyiSentyFlorCalligraphy.ttf|Hanyi Senty Floral Calligraphy|HanyiSentyFloralCalligraphy|Hanyi Senty Floral Calligraphy|Regular|1.00;December 26, 2018;FontCreator 11.5.0.2430 64-bit|
+|HanyiSentyGarden.ttf|HanyiSentyGarden|HanyiSentyGarden|HanyiSentyGarden|Regular|1.00;April 8, 2019;FontCreator 11.5.0.2430 64-bit|
+|HanyiSentyGraffiti.ttf|HanyiSentyGraffiti|HanyiSentyGraffiti|HanyiSentyGraffiti|Regular|1.00;April 8, 2019;FontCreator 11.5.0.2430 64-bit|
 |HanyiSentyJournal.ttf|Hanyi Senty Journal|HanyiSentyJournal|Hanyi Senty Journal|Regular|1.00;January 17, 2019;FontCreator 11.5.0.2430 64-bit|
+|HanyiSentyJoy.ttf|HanyiSentyJoy|HanyiSentyJoy|HanyiSentyJoy|Regular|1.00;April 8, 2019;FontCreator 11.5.0.2430 64-bit|
 |HanyiSentyLotus.ttf|Hanyi Senty Lotus|HanyiSentyLotus|Hanyi Senty Lotus|Regular|1.00;January 10, 2019;FontCreator 11.5.0.2430 64-bit|
 |HanyiSentyMeadow.ttf|Hanyi Senty Meadow|HanyiSentyMeadow|Hanyi Senty Meadow|Regular|1.00;January 5, 2019;FontCreator 11.5.0.2430 64-bit|
+|HanyiSentyPine.ttf|HanyiSentyPine|HanyiSentyPine|HanyiSentyPine|Regular|1.00;April 8, 2019;FontCreator 11.5.0.2430 64-bit|
 |HanyiSentySIlkRoad.ttf|Hanyi Senty Silk Road|HanyiSentySilkRoad|Hanyi Senty Silk Road|Regular|1.00;December 9, 2018;FontCreator 11.5.0.2427 64-bit|
+|HanyiSentySpringBrush.ttf|HanyiSentySpringBrush|HanyiSentySpringBrush|HanyiSentySpringBrush|Regular|1.00;April 7, 2019;FontCreator 11.5.0.2430 64-bit|
+|HanyiSentySpringTrip.ttf|HanyiSentySpringTrip|HanyiSentySpringTrip|HanyiSentySpringTrip|Regular|1.00;April 9, 2019;FontCreator 11.5.0.2430 64-bit|
 |HanyiSentyVimalkirti.ttf|Hanyi Senty Vimalakirti|HanyiSentyVimalakirti|Hanyi Senty Vimalakirti|Regular|1.00;January 19, 2019;FontCreator 11.5.0.2430 64-bit|
+|HanyiSentyWoodCut.ttf|HanyiSentyWoodcut|HanyiSentyWoodcut|HanyiSentyWoodcut|Regular|1.00;May 16, 2019;FontCreator 11.5.0.2430 64-bit|
 |HanyiSentyYongleEncyclopedia.ttf|Hanyi Senty Yongle Encyclopedia|HanyiSentyYongleEncyclopedia|Hanyi Senty Yongle Encyclopedia|Regular|1.00;April 7|
+|HanyiSentyZhangjizhi.ttf|HanyiSentyZhangjizhi|HanyiSentyZhangjizhi|HanyiSentyZhangjizhi|Regular|1.00;April 15, 2019;FontCreator 11.5.0.2430 64-bit|
 |HanyiSentyZHAO.ttf|HanyiSentyZhao|HanyiSentyZhao|HanyiSentyZhao|Regular|1.00;January 19, 2019;FontCreator 11.5.0.2430 64-bit|
 |HYAlzheimer.ttf|HYAlzheimer|HYAlzheimer|HYAlzheimer|Regular|5.00|
 |HYBaiJiHuoYunTiF.ttf|HYBaiJiHuoYunTiF|HYBaiJiHuoYunTiF|HYBaiJiHuoYunTiF|Regular|5.00|
