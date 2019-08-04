@@ -767,6 +767,7 @@
 |HYZhuZiALaDingF.ttf|HYZhuZiALaDingF|HYZhuZiALaDingF|HYZhuZiALaDingF|Regular|5.00|
 |HYZhuZiALaDingJ.ttf|HYZhuZiALaDingJ|HYZhuZiALaDingJ|HYZhuZiALaDingJ|Regular|5.00|
 |HYZhuZiALaDingW.ttf|HYZhuZiALaDingW|HYZhuZiALaDingW|HYZhuZiALaDingW|Regular|5.00|
+|HYZhuZiBiXinTiW.ttf|HYZhuZiBiXinTiW|HYZhuZiBiXinTiW|HYZhuZiBiXinTiW|Regular|9.00.00|
 |HYZhuZiChaoRanTiF.ttf|HYZhuZiChaoRanTiF|HYZhuZiChaoRanTiF|HYZhuZiChaoRanTiF|Regular|5.00|
 |HYZhuZiChaoRanTiJ.ttf|HYZhuZiChaoRanTiJ|HYZhuZiChaoRanTiJ|HYZhuZiChaoRanTiJ|Regular|5.00|
 |HYZhuZiChaoRanTiW.ttf|HYZhuZiChaoRanTiW|HYZhuZiChaoRanTiW|HYZhuZiChaoRanTiW|Regular|5.00|
