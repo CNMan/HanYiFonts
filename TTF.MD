@@ -579,6 +579,9 @@
 |HYTangTangCuTiJ.ttf|HYTangTangCuTiJ Regular|HYTangTangCuTiJ|HYTangTangCuTiJ|Regular|5.00|
 |HYTangTangTiJ.ttf|HYTangTangTiJ Regular|HYTangTangTiJ|HYTangTangTiJ|Regular|5.00|
 |HYTeXiDengXianJ.ttf|HYTeXiDengXianJ|HYg6gj|HYTeXiDengXianJ|Regular|3.53|
+|HYTianNuoLiXianF.ttf|HYTianNuoLiXianF|HYTianNuoLiXianF|HYTianNuoLiXianF|Regular|9.00.00|
+|HYTianNuoLiXianJ.ttf|HYTianNuoLiXianJ|HYTianNuoLiXianJ|HYTianNuoLiXianJ|Regular|9.00.00|
+|HYTianNuoLiXianW.ttf|HYTianNuoLiXianW|HYTianNuoLiXianW|HYTianNuoLiXianW|Regular|9.00.00|
 |HYTianXinTiF.ttf|HYTianXinTiF|HYTianXinTiF|HYTianXinTiF|Regular|5.00|
 |HYTianXinTiJ.ttf|HYTianXinTiJ|HYTianXinTiJ|HYTianXinTiJ|Regular|5.00|
 |HYTianXinTiW.ttf|HYTianXinTiW|HYTianXinTiW|HYTianXinTiW|Regular|5.00|
@@ -691,6 +694,9 @@
 |HYYaKuHeiF.ttf|HYYaKuHeiF Regular|HYYaKuHeiF|HYYaKuHeiF|Regular|5.00|
 |HYYaKuHeiJ.ttf|HYYaKuHeiJ Regular|HYYaKuHeiJ|HYYaKuHeiJ|Regular|5.00|
 |HYYaKuHeiW.ttf|HYYaKuHeiW Regular|HYYaKuHeiW|HYYaKuHeiW|Regular|5.00|
+|HYYanHuShouShuF.ttf|HYYanHuShouShuF|HYYanHuShouShuF|HYYanHuShouShuF|Regular|9.00.00|
+|HYYanHuShouShuJ.ttf|HYYanHuShouShuJ|HYYanHuShouShuJ|HYYanHuShouShuJ|Regular|9.00.00|
+|HYYanHuShouShuW.ttf|HYYanHuShouShuW|HYYanHuShouShuW|HYYanHuShouShuW|Regular|9.00.00|
 |HYYanKaiF.1.ttf|HYYanKaiF|HYx4gf|HYYanKaiF|Regular|3.53|
 |HYYanKaiF.ttf|HYYanKaiF|HYYanKaiF|HYYanKaiF|Regular|5.00|
 |HYYanKaiJ.ttf|HYYanKaiJ|HYYanKaiJ|HYYanKaiJ|Regular|5.00|
@@ -767,6 +773,8 @@
 |HYZhuZiALaDingF.ttf|HYZhuZiALaDingF|HYZhuZiALaDingF|HYZhuZiALaDingF|Regular|5.00|
 |HYZhuZiALaDingJ.ttf|HYZhuZiALaDingJ|HYZhuZiALaDingJ|HYZhuZiALaDingJ|Regular|5.00|
 |HYZhuZiALaDingW.ttf|HYZhuZiALaDingW|HYZhuZiALaDingW|HYZhuZiALaDingW|Regular|5.00|
+|HYZhuZiBiXinTiF.ttf|HYZhuZiBiXinTiF|HYZhuZiBiXinTiF|HYZhuZiBiXinTiF|Regular|9.00.00|
+|HYZhuZiBiXinTiJ.ttf|HYZhuZiBiXinTiJ|HYZhuZiBiXinTiJ|HYZhuZiBiXinTiJ|Regular|9.00.00|
 |HYZhuZiBiXinTiW.ttf|HYZhuZiBiXinTiW|HYZhuZiBiXinTiW|HYZhuZiBiXinTiW|Regular|9.00.00|
 |HYZhuZiChaoRanTiF.ttf|HYZhuZiChaoRanTiF|HYZhuZiChaoRanTiF|HYZhuZiChaoRanTiF|Regular|5.00|
 |HYZhuZiChaoRanTiJ.ttf|HYZhuZiChaoRanTiJ|HYZhuZiChaoRanTiJ|HYZhuZiChaoRanTiJ|Regular|5.00|
