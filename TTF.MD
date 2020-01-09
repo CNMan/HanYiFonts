@@ -81,7 +81,7 @@
 |HYChenMeiZiJ.ttf|HYChenMeiZiJ Regular|HYChenMeiZiJ|HYChenMeiZiJ|Regular|5.00|
 |HYChenMeiZiW.ttf|HYChenMeiZiW Regular|HYChenMeiZiW|HYChenMeiZiW|Regular|5.00|
 |HYChenPinPoTiJ.ttf|HYChenPinJ|HYf5gj|HYChenPinJ|Regular|3.53|
-|HYChenTiJiaGuWen.ttf|HYChenTiJiaGuWen|HYChenTiJiaGuWen|HYChenTiJiaGuWen|Regular|5.00|
+|HYChenTiJiaGuWen.ttf|HYChenTiJiaGuWen|HYChenTiJiaGuWen|HYChenTiJiaGuWen|Regular|5.10|
 |HYChunRanShouShuF.ttf|HYChunRanShouShuF|HYChunRanShouShuF|HYChunRanShouShuF|Regular|5.00|
 |HYChunRanShouShuJ.ttf|HYChunRanShouShuJ|HYChunRanShouShuJ|HYChunRanShouShuJ|Regular|5.00|
 |HYChunRanShouShuW.ttf|HYChunRanShouShuW Regular|HYChunRanShouShuW|HYChunRanShouShuW|Regular|5.00|
@@ -351,12 +351,15 @@
 |HYQiHeiX3-35W.ttf|HYQiHeiX3-35W Thin|HYQiHeiX3-CEW|HYQiHeiX3-35W|Thin|5.00|
 |HYQiHeiX3-45F.ttf|HYQiHeiX3-45F ExtraLight|HYQiHeiX3-DEW|HYQiHeiX3-45F|ExtraLight|5.00|
 |HYQiHeiX3-45J.ttf|HYQiHeiX3-45J ExtraLight|HYQiHeiX3-DEW|HYQiHeiX3-45J|ExtraLight|5.00|
+|HYQiHeiX3-45S.ttf|HYQiHeiX3-45S ExtraLight|HYQiHeiX3-DES|HYQiHeiX3-45S|ExtraLight|5.00|
 |HYQiHeiX3-45W.ttf|HYQiHeiX3-45W ExtraLight|HYQiHeiX3-DEW|HYQiHeiX3-45W|ExtraLight|5.00|
 |HYQiHeiX3-55F.ttf|HYQiHeiX3-55F Book|HYQiHeiX3-EEW|HYQiHeiX3-55F|Book|5.00|
 |HYQiHeiX3-55J.ttf|HYQiHeiX3-55J Book|HYQiHeiX3-EEW|HYQiHeiX3-55J|Book|5.00|
+|HYQiHeiX3-55S.ttf|HYQiHeiX3-55S Book|HYQiHeiX3-EES|HYQiHeiX3-55S|Book|5.00|
 |HYQiHeiX3-55W.ttf|HYQiHeiX3-55W Book|HYQiHeiX3-EEW|HYQiHeiX3-55W|Book|5.00|
 |HYQiHeiX3-65F.ttf|HYQiHeiX3-65F Medium|HYQiHeiX3-FEW|HYQiHeiX3-65F|Medium|5.00|
 |HYQiHeiX3-65J.ttf|HYQiHeiX3-65J Medium|HYQiHeiX3-FEW|HYQiHeiX3-65J|Medium|5.00|
+|HYQiHeiX3-65S.ttf|HYQiHeiX3-65S Medium|HYQiHeiX3-FES|HYQiHeiX3-65S|Medium|5.00|
 |HYQiHeiX3-65W.ttf|HYQiHeiX3-65W Medium|HYQiHeiX3-FEW|HYQiHeiX3-65W|Medium|5.00|
 |HYQiHeiX3-75F.ttf|HYQiHeiX3-75F Bold|HYQiHeiX3-GEW|HYQiHeiX3-75F|Bold|5.00|
 |HYQiHeiX3-75J.ttf|HYQiHeiX3-75J Bold|HYQiHeiX3-GEW|HYQiHeiX3-75J|Bold|5.00|
