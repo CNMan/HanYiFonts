@@ -18,18 +18,25 @@
 |HanyiSentyChalk.ttf|Hanyi Senty Chalk Original|HanyiSentyChalkOriginal|Hanyi Senty Chalk Original|Regular|1.00;December 25, 2017;FontCreator 11.0.0.2408 64-bit|
 |HanyiSentyCrayon.ttf|HanyiSentyCrayon|HanyiSentyCrayon|HanyiSentyCrayon|Regular|1.00;April 9, 2019;FontCreator 11.5.0.2430 64-bit|
 |HanyiSentyDiary.ttf|Hanyi Senty Diary|HanyiSentyDiary|Hanyi Senty Diary|Regular|1.00;July 27, 2018;FontCreator 11.5.0.2427 64-bit|
-|HanyiSentyFingerPainting.ttf|HanyiSentyFingerPainting|HanyiSentyFingerPainting|HanyiSentyFingerPainting|Regular|1.00;April 8, 2019;FontCreator 11.5.0.2430 64-bit|
+|HanyiSentyFingerPainting.ttf|HanyiSentyFingerPainting|HanyiSentyFingerPainting|HanyiSentyFingerPainting|Regular|1.00;May 24, 2019;FontCreator 11.5.0.2430 64-bit|
 |HanyiSentyFlorCalligraphy.ttf|Hanyi Senty Floral Calligraphy|HanyiSentyFloralCalligraphy|Hanyi Senty Floral Calligraphy|Regular|1.00;December 26, 2018;FontCreator 11.5.0.2430 64-bit|
 |HanyiSentyGarden.ttf|HanyiSentyGarden|HanyiSentyGarden|HanyiSentyGarden|Regular|1.00;April 8, 2019;FontCreator 11.5.0.2430 64-bit|
 |HanyiSentyGraffiti.ttf|HanyiSentyGraffiti|HanyiSentyGraffiti|HanyiSentyGraffiti|Regular|1.00;April 8, 2019;FontCreator 11.5.0.2430 64-bit|
 |HanyiSentyJournal.ttf|Hanyi Senty Journal|HanyiSentyJournal|Hanyi Senty Journal|Regular|1.00;January 17, 2019;FontCreator 11.5.0.2430 64-bit|
 |HanyiSentyJoy.ttf|HanyiSentyJoy|HanyiSentyJoy|HanyiSentyJoy|Regular|1.00;April 8, 2019;FontCreator 11.5.0.2430 64-bit|
 |HanyiSentyLotus.ttf|Hanyi Senty Lotus|HanyiSentyLotus|Hanyi Senty Lotus|Regular|1.00;January 10, 2019;FontCreator 11.5.0.2430 64-bit|
+|HanyiSentyMarshmallowChalk-A.ttf|HanyiSentyMarshmallowChalkA|HanyiSentyMarshmallowChalkA|HanyiSentyMarshmallowChalkA|Regular|HanyiSentyMarshmallowChalkA|
+|HanyiSentyMarshmallowChalk-B.ttf|HanyiSentyMarshmallowChalkB|HanyiSentyMarshmallowChalkB|HanyiSentyMarshmallowChalkB|Regular|1.00;March 10, 2020;FontCreator 12.0.0.2565 64-bit|
+|HanyiSentyMarshmallow.ttf|HanyiSentyMarshmallow|HanyiSentyMarshmallow|HanyiSentyMarshmallow|Regular|HanyiSentyMarshmallow2020|
 |HanyiSentyMeadow.ttf|Hanyi Senty Meadow|HanyiSentyMeadow|Hanyi Senty Meadow|Regular|1.00;January 5, 2019;FontCreator 11.5.0.2430 64-bit|
+|HanyiSentyPailouArch.ttf|HanyiSentyPailouArch|HanyiSentyPailouArch|HanyiSentyPailouArch|Regular|HanyiSentyPailouArch2020|
 |HanyiSentyPine.ttf|HanyiSentyPine|HanyiSentyPine|HanyiSentyPine|Regular|1.00;April 8, 2019;FontCreator 11.5.0.2430 64-bit|
 |HanyiSentySIlkRoad.ttf|Hanyi Senty Silk Road|HanyiSentySilkRoad|Hanyi Senty Silk Road|Regular|1.00;December 9, 2018;FontCreator 11.5.0.2427 64-bit|
+|HanyiSentySnowMountain.ttf|Senty Snow Mountain 新蒂雪山体|SentySnowMountain|Senty Snow Mountain 新蒂雪山体|Regular|1.00;August 28, 2019;FontCreator 12.0.0.2545 64-bit|
 |HanyiSentySpringBrush.ttf|HanyiSentySpringBrush|HanyiSentySpringBrush|HanyiSentySpringBrush|Regular|1.00;April 7, 2019;FontCreator 11.5.0.2430 64-bit|
 |HanyiSentySpringTrip.ttf|HanyiSentySpringTrip|HanyiSentySpringTrip|HanyiSentySpringTrip|Regular|1.00;April 9, 2019;FontCreator 11.5.0.2430 64-bit|
+|HanyiSentySuciTablet.ttf|HanyiSentySuciTablet|HanyiSentySuciTablet|HanyiSentySuciTablet|Regular|1.00;September 9, 2019;FontCreator 12.0.0.2545 64-bit|
+|HanyiSentyTang.ttf|HanyiSentyTang|HanyiSentyTang|HanyiSentyTang|Regular|1.00;February 18, 2019;FontCreator 11.5.0.2430 64-bit|
 |HanyiSentyVimalkirti.ttf|Hanyi Senty Vimalakirti|HanyiSentyVimalakirti|Hanyi Senty Vimalakirti|Regular|1.00;January 19, 2019;FontCreator 11.5.0.2430 64-bit|
 |HanyiSentyWoodCut.ttf|HanyiSentyWoodcut|HanyiSentyWoodcut|HanyiSentyWoodcut|Regular|1.00;May 16, 2019;FontCreator 11.5.0.2430 64-bit|
 |HanyiSentyYongleEncyclopedia.ttf|Hanyi Senty Yongle Encyclopedia|HanyiSentyYongleEncyclopedia|Hanyi Senty Yongle Encyclopedia|Regular|1.00;April 7|
@@ -42,12 +49,21 @@
 |HYBaiQingTiF.ttf|HYBaiQingF|HYj4gf|HYBaiQingF|Regular|3.53|
 |HYBaiQingTiJ.ttf|HYBaiQingJ|HYj4gj|HYBaiQingJ|Regular|3.53|
 |HYBaiQiTiJ.ttf|HYBaiQiJ|HYm5gj|HYBaiQiJ|Regular|3.53|
+|HYBaManTiF.ttf|HYBaManTi F|HYBaManTi-F|HYBaManTi F|Regular|9.00.00|
+|HYBaManTiJ.ttf|HYBaManTi J|HYBaManTi-J|HYBaManTi J|Regular|9.00.00|
+|HYBaManTiW.ttf|HYBaManTi W|HYBaManTi-W|HYBaManTi W|Regular|9.00.00|
 |HYBaoSongF.ttf|HYBaoSongF|HYa2gf|HYBaoSongF|Regular|3.53|
 |HYBaoSongJ.ttf|HYBaoSongJ|HYa2gj|HYBaoSongJ|Regular|3.53|
 |HYBeiKeHei-ALiAI.ttf|HYBeiKeHei-ALiAI|HYBeiKeHei-ALiAI|HYBeiKeHei-ALiAI|Regular|1.00|
+|HYBeiKeHeiF.ttf|HYBeiKeHeiF|HYBeiKeHeiF|HYBeiKeHeiF|Regular|9.00.00|
+|HYBeiKeHeiJ.ttf|HYBeiKeHeiJ|HYBeiKeHeiJ|HYBeiKeHeiJ|Regular|9.00.00|
+|HYBeiKeHeiW.ttf|HYBeiKeHeiW|HYBeiKeHeiW|HYBeiKeHeiW|Regular|9.00.00|
 |HYBeiWeiXieJingF.ttf|HYBeiWeiXieJingF|HYBeiWeiXieJingF|HYBeiWeiXieJingF|Regular|5.00|
 |HYBeiWeiXieJingJ.ttf|HYBeiWeiXieJingJ|HYBeiWeiXieJingJ|HYBeiWeiXieJingJ|Regular|5.00|
 |HYBeiWeiXieJingW.ttf|HYBeiWeiXieJingW|HYBeiWeiXieJingW|HYBeiWeiXieJingW|Regular|5.00|
+|HYBenMoShouShuF.ttf|HYBenMoShouShu F|HYBenMoShouShu-F|HYBenMoShouShu F|Regular|9.00.00|
+|HYBenMoShouShuJ.ttf|HYBenMoShouShu J|HYBenMoShouShu-J|HYBenMoShouShu J|Regular|9.00.00|
+|HYBenMoShouShuW.ttf|HYBenMoShouShu W|HYBenMoShouShu-W|HYBenMoShouShu W|Regular|9.00.00|
 |HYBOBOXianShengF.ttf|HYBOBOXianShengF|HYBOBOXianShengF|HYBOBOXianShengF|Regular|5.00|
 |HYBOBOXianShengJ.ttf|HYBOBOXianShengJ|HYBOBOXianShengJ|HYBOBOXianShengJ|Regular|5.00|
 |HYBOBOXianShengW.ttf|HYBOBOXianShengW|HYBOBOXianShengW|HYBOBOXianShengW|Regular|5.00|
@@ -56,12 +72,15 @@
 |HYCaiDieTiJ.ttf|HYCaiDieJ|HYk5gj|HYCaiDieJ|Regular|3.53|
 |HYCaiYunTiF.ttf|HYCaiYunF|HYl1gf|HYCaiYunF|Regular|3.53|
 |HYCaiYunTiJ.ttf|HYCaiYunJ|HYl1gj|HYCaiYunJ|Regular|3.53|
+|HYChangJiangXiaoKaiF.ttf|HYChangJiangXiaoKai F|HYChangJiangXiaoKai-F|HYChangJiangXiaoKai F|Regular|9.00.00|
+|HYChangJiangXiaoKaiJ.ttf|HYChangJiangXiaoKai J|HYChangJiangXiaoKai-J|HYChangJiangXiaoKai J|Regular|9.00.00|
+|HYChangJiangXiaoKaiW.ttf|HYChangJiangXiaoKai W|HYChangJiangXiaoKai-W|HYChangJiangXiaoKai W|Regular|9.00.00|
 |HYChangLiSongKeBen(Original)F.ttf|HYChangLiSongKeBenOriginalF|HYChangLiSongKeBenOriginalF|HYChangLiSongKeBenOriginalF|Regular|5.01|
 |HYChangLiSongKeBen(Original)J.ttf|HYChangLiSongKeBenOriginalJ|HYChangLiSongKeBenOriginalJ|HYChangLiSongKeBenOriginalJ|Regular|5.01|
 |HYChangLiSongKeBen(Original)W.ttf|HYChangLiSongKeBenOriginalW|HYChangLiSongKeBenOriginalW|HYChangLiSongKeBenOriginalW|Regular|5.01|
-|HYChangLiSongKeBen(Truing)F.ttf|HYChangLiSongKeBen(Truing)F|HYChangLiSongKeBen(Truing)F|HYChangLiSongKeBen(Truing)F|Regular|5.00|
-|HYChangLiSongKeBen(Truing)J.ttf|HYChangLiSongKeBen(Truing)J|HYChangLiSongKeBen(Truing)J|HYChangLiSongKeBen(Truing)J|Regular|5.00|
-|HYChangLiSongKeBen(Truing)W.ttf|HYChangLiSongKeBen(Truing)W|HYChangLiSongKeBen(Truing)W|HYChangLiSongKeBen(Truing)W|Regular|5.00|
+|HYChangLiSongKeBen(Truing)F.ttf|HYChangLiSongKeBenTruingF|HYChangLiSongKeBenTruingF|HYChangLiSongKeBenTruingF|Regular|5.01|
+|HYChangLiSongKeBen(Truing)J.ttf|HYChangLiSongKeBenTruingJ|HYChangLiSongKeBenTruingJ|HYChangLiSongKeBenTruingJ|Regular|5.01|
+|HYChangLiSongKeBen(Truing)W.ttf|HYChangLiSongKeBenTruingW|HYChangLiSongKeBenTruingW|HYChangLiSongKeBenTruingW|Regular|5.01|
 |HYChangMeiHeiF.ttf|HYChangMeiHeiF|HYb3gf|HYChangMeiHeiF|Regular|3.53|
 |HYChangMeiHeiJ.ttf|HYChangMeiHeiJ|HYb3gj|HYChangMeiHeiJ|Regular|3.53|
 |HYChangSongF.ttf|HYChangSongF|HYa5gf|HYChangSongF|Regular|3.53|
@@ -82,6 +101,9 @@
 |HYChenMeiZiW.ttf|HYChenMeiZiW Regular|HYChenMeiZiW|HYChenMeiZiW|Regular|5.00|
 |HYChenPinPoTiJ.ttf|HYChenPinJ|HYf5gj|HYChenPinJ|Regular|3.53|
 |HYChenTiJiaGuWen.ttf|HYChenTiJiaGuWen|HYChenTiJiaGuWen|HYChenTiJiaGuWen|Regular|5.10|
+|HYChiYunLiF.ttf|HYChiYunLi F|HYChiYunLi-F|HYChiYunLi F|Regular|9.00.00|
+|HYChiYunLiJ.ttf|HYChiYunLi J|HYChiYunLi-J|HYChiYunLi J|Regular|9.00.00|
+|HYChiYunLiW.ttf|HYChiYunLi W|HYChiYunLi-W|HYChiYunLi W|Regular|9.00.00|
 |HYChunRanShouShuF.ttf|HYChunRanShouShuF|HYChunRanShouShuF|HYChunRanShouShuF|Regular|5.00|
 |HYChunRanShouShuJ.ttf|HYChunRanShouShuJ|HYChunRanShouShuJ|HYChunRanShouShuJ|Regular|5.00|
 |HYChunRanShouShuW.ttf|HYChunRanShouShuW Regular|HYChunRanShouShuW|HYChunRanShouShuW|Regular|5.00|
@@ -106,6 +128,9 @@
 |HYDaShengTiJ.ttf|HYDaShengTiJ Regular|HYDaShengTiJ|HYDaShengTiJ|Regular|5.00|
 |HYDaSongF.ttf|HYDaSongF|HYa4gf|HYDaSongF|Regular|3.53|
 |HYDaSongJ.ttf|HYDaSongJ|HYa4gj|HYDaSongJ|Regular|3.53|
+|HYDianHeiF.ttf|HYDianHei F|HYDianHei-F|HYDianHei F|Regular|9.00.00|
+|HYDianHeiJ.ttf|HYDianHei J|HYDianHei-J|HYDianHei J|Regular|9.00.00|
+|HYDianHeiW.ttf|HYDianHei W|HYDianHei-W|HYDianHei W|Regular|9.00.00|
 |HYDianYaTiF.ttf|HYDianYaTiF Regular|HYDianYaTiF|HYDianYaTiF|Regular|5.00|
 |HYDianYaTiJ.ttf|HYDianYaTiJ Regular|HYDianYaTiJ|HYDianYaTiJ|Regular|5.00|
 |HYDieYuTiJ.ttf|HYDieYuJ|HYn3gj|HYDieYuJ|Regular|3.53|
@@ -113,8 +138,16 @@
 |HYDiShengYingXiongTiF.ttf|HYDiShengYingXiongTiF|HYDiShengYingXiongTiF|HYDiShengYingXiongTiF|Regular|5.00|
 |HYDiShengYingXiongTiJ.ttf|HYDiShengYingXiongTiJ|HYDiShengYingXiongTiJ|HYDiShengYingXiongTiJ|Regular|5.00|
 |HYDiShengYingXiongTiW.ttf|HYDiShengYingXiongTiW|HYDiShengYingXiongTiW|HYDiShengYingXiongTiW|Regular|5.00|
+|HYDongHaiMoXingF.ttf|HYDongHaiMoXing F|HYDongHaiMoXing-F|HYDongHaiMoXing F|Regular|9.00.00|
+|HYDongHaiMoXingJ.ttf|HYDongHaiMoXing J|HYDongHaiMoXing-J|HYDongHaiMoXing J|Regular|9.00.00|
+|HYDongHaiMoXingSpecialJ.ttf|HYDongHaiMoXingSpecial J|HYDongHaiMoXingSpecial-J|HYDongHaiMoXingSpecial J|Regular|9.00.00|
+|HYDongHaiMoXingSpecialW.ttf|HYDongHaiMoXingSpecial W|HYDongHaiMoXingSpecial-W|HYDongHaiMoXingSpecial W|Regular|9.00.00|
+|HYDongHaiMoXingW.ttf|HYDongHaiMoXing W|HYDongHaiMoXing-W|HYDongHaiMoXing W|Regular|9.00.00|
 |HYDuDuTiJ.ttf|HYDuDuJ|HYy4gj|HYDuDuJ|Regular|3.53|
 |HYDunHuangXieJingW.ttf|HYDunHuangXieJingW|HYDunHuangXieJingW|HYDunHuangXieJingW|Regular|5.00|
+|HYErMaGuFengF.ttf|HYErMaGuFeng F|HYErMaGuFeng-F|HYErMaGuFeng F|Regular|9.00.00|
+|HYErMaGuFengJ.ttf|HYErMaGuFeng J|HYErMaGuFeng-J|HYErMaGuFeng J|Regular|9.00.00|
+|HYErMaGuFengW.ttf|HYErMaGuFeng W|HYErMaGuFeng-W|HYErMaGuFeng W|Regular|9.00.00|
 |HYErMaMoShuF.ttf|HYErMaMoShuF|HYErMaMoShuF|HYErMaMoShuF|Regular|5.00|
 |HYErMaMoShuJ.ttf|HYErMaMoShuJ|HYErMaMoShuJ|HYErMaMoShuJ|Regular|5.00|
 |HYErMaMoShuW.ttf|HYErMaMoShuW|HYErMaMoShuW|HYErMaMoShuW|Regular|5.00|
@@ -125,9 +158,12 @@
 |HYFangMoTiJ.ttf|HYFangMoJ|HYk0gj|HYFangMoJ|Regular|3.53|
 |HYFangSongF.ttf|HYFangSongF|HYd1gf|HYFangSongF|Regular|3.53|
 |HYFangSongJ.ttf|HYFangSongJ|HYd1gj|HYFangSongJ|Regular|3.53|
-|HYFangSongS.ttf|HYFangSongS Regular|HYFangSongS|HYFangSongS|Regular|5.00|
+|HYFangSongS.ttf|HYFangSongS Regular|HYFangSongS|HYFangSongS|Regular|5.01|
 |HYFanXiaoGeLiShuF.ttf|HYFanXiaoGeLiShuF|HYs9gf|HYFanXiaoGeLiShuF|Regular|3.53|
 |HYFanXiaoGeLiShuJ.ttf|HYFanXiaoGeLiShuJ|HYs9gj|HYFanXiaoGeLiShuJ|Regular|3.53|
+|HYFengZhuTiF.ttf|HYFengZhuTi F|HYFengZhuTi-F|HYFengZhuTi F|Regular|9.00.00|
+|HYFengZhuTiJ.ttf|HYFengZhuTi J|HYFengZhuTi-J|HYFengZhuTi J|Regular|9.00.00|
+|HYFengZhuTiW.ttf|HYFengZhuTi W|HYFengZhuTi-W|HYFengZhuTi W|Regular|9.00.00|
 |HYGangYiTi-35F.ttf|HYGangYiTi-35F Thin|HYGangYiTi-CEW|HYGangYiTi-35F|Thin|5.00|
 |HYGangYiTi-35J.ttf|HYGangYiTi-35J Thin|HYGangYiTi-CEW|HYGangYiTi-35J|Thin|5.00|
 |HYGangYiTi-35W.ttf|HYGangYiTi-35W Thin|HYGangYiTi-CEW|HYGangYiTi-35W|Thin|5.00|
@@ -153,6 +189,9 @@
 |HYGanLanTiJ.ttf|HYGanLanJ|HYx1gj|HYGanLanJ|Regular|3.53|
 |HYGaoZhiQianTiF.ttf|HYGaoZhiQianF|HYr5gf|HYGaoZhiQianF|Regular|3.53|
 |HYGaoZhiQianTiJ.ttf|HYGaoZhiQianJ|HYr5gj|HYGaoZhiQianJ|Regular|3.53|
+|HYGongHaiTaoXingCaoF.ttf|HYGongHaiTaoXingCao F|HYGongHaiTaoXingCao-F|HYGongHaiTaoXingCao F|Regular|9.00.00|
+|HYGongHaiTaoXingCaoJ.ttf|HYGongHaiTaoXingCao J|HYGongHaiTaoXingCao-J|HYGongHaiTaoXingCao J|Regular|9.00.00|
+|HYGongHaiTaoXingCaoW.ttf|HYGongHaiTaoXingCao W|HYGongHaiTaoXingCao-W|HYGongHaiTaoXingCao W|Regular|9.00.00|
 |HYGuLiF.ttf|HYGuLiF|HYGuLiF|HYGuLiF|Regular|5.00|
 |HYGuLiJ.ttf|HYGuLiJ|HYGuLiJ|HYGuLiJ|Regular|5.00|
 |HYGuLiW.ttf|HYGuLiW|HYGuLiW|HYGuLiW|Regular|5.00|
@@ -167,6 +206,8 @@
 |HYHalloweenF.ttf|HYHalloweenF|HYHalloweenF|HYHalloweenF|Regular|5.00|
 |HYHalloweenJ.ttf|HYHalloweenJ|HYHalloweenJ|HYHalloweenJ|Regular|5.00|
 |HYHalloweenW.ttf|HYHalloweenW|HYHalloweenW|HYHalloweenW|Regular|5.00|
+|HYHanHeiF.ttf|HYHanHeiF|HYHanHeiF|HYHanHeiF|Regular|5.00|
+|HYHanHeiJ.ttf|HYHanHeiJ|HYHanHeiJ|HYHanHeiJ|Regular|5.00|
 |HYHanHeiW.ttf|HYHanHeiW|HYHanHeiW|HYHanHeiW|Regular|5.00|
 |HYHanShiCuTiF.ttf|HYHanShiCuTiF Regular|HYHanShiCuTiF|HYHanShiCuTiF|Regular|5.00|
 |HYHanShiCuTiJ.ttf|HYHanShiCuTiJ Regular|HYHanShiCuTiJ|HYHanShiCuTiJ|Regular|5.00|
@@ -186,6 +227,12 @@
 |HYHeLongXingShuJ.ttf|HYHeLongXingShuJ Regular|HYHeLongXingShuJ|HYHeLongXingShuJ|Regular|5.00|
 |HYHeLongXingShuW.ttf|HYHeLongXingShuW Regular|HYHeLongXingShuW|HYHeLongXingShuW|Regular|5.01|
 |HYHuaDieTiJ.ttf|HYHuaDieJ|HYf9gj|HYHuaDieJ|Regular|3.53|
+|HYHuaMuLanF.ttf|HYHuaMuLan F|HYHuaMuLan-F|HYHuaMuLan F|Regular|9.00.00|
+|HYHuaMuLanJ.ttf|HYHuaMuLan J|HYHuaMuLan-J|HYHuaMuLan J|Regular|9.00.00|
+|HYHuaMuLanW.ttf|HYHuaMuLan W|HYHuaMuLan-W|HYHuaMuLan W|Regular|9.00.00|
+|HYHuangKeBangShuF.ttf|HYHuangKeBangShu F|HYHuangKeBangShu-F|HYHuangKeBangShu F|Regular|9.00.00|
+|HYHuangKeBangShuJ.ttf|HYHuangKeBangShu J|HYHuangKeBangShu-J|HYHuangKeBangShu J|Regular|9.00.00|
+|HYHuangKeBangShuW.ttf|HYHuangKeBangShu W|HYHuangKeBangShu-W|HYHuangKeBangShu W|Regular|9.00.00|
 |HYHuaNongTiJ.ttf|HYHuaNongTiJ Regular|HYHuaNongTiJ|HYHuaNongTiJ|Regular|5.00|
 |HYHuoChaiTiJ.ttf|HYHuoChaiJ|HYq2gj|HYHuoChaiJ|Regular|3.53|
 |HYHuPoTiF.ttf|HYHuPoF|HYo1gf|HYHuPoF|Regular|3.53|
@@ -193,11 +240,26 @@
 |HYJiaGuoSongF.ttf|HYJiaGuoSongF|HYJiaGuoSongF|HYJiaGuoSongF|Regular|9.00.00|
 |HYJiaGuoSongJ.ttf|HYJiaGuoSongJ|HYJiaGuoSongJ|HYJiaGuoSongJ|Regular|9.00.00|
 |HYJiaGuoSongW.ttf|HYJiaGuoSongW|HYJiaGuoSongW|HYJiaGuoSongW|Regular|9.00.00|
+|HYJiangNanKaiSongF.ttf|HYJiangNanKaiSong F|HYJiangNanKaiSong-F|HYJiangNanKaiSong F|Regular|9.00.00|
+|HYJiangNanKaiSongJ.ttf|HYJiangNanKaiSong J|HYJiangNanKaiSong-J|HYJiangNanKaiSong J|Regular|9.00.00|
+|HYJiangNanKaiSongW.ttf|HYJiangNanKaiSong W|HYJiangNanKaiSong-W|HYJiangNanKaiSong W|Regular|9.00.00|
 |HYJiaShuF.ttf|HYJiaShuF|HYd2gf|HYJiaShuF|Regular|3.53|
 |HYJiaShuJ.ttf|HYJiaShuJ|HYd2gj|HYJiaShuJ|Regular|3.53|
+|HYJiJinTiF.ttf|HYJiJinTiF|HYJiJinTiF|HYJiJinTiF|Regular|9.00.00|
+|HYJiJinTiJ.ttf|HYJiJinTiJ|HYJiJinTiJ|HYJiJinTiJ|Regular|9.00.00|
+|HYJiJinTiW.ttf|HYJiJinTiW|HYJiJinTiW|HYJiJinTiW|Regular|9.00.00|
+|HYJiLiF.ttf|HYJiLi F|HYJiLi-F|HYJiLi F|Regular|9.00.00|
+|HYJiLiJ.ttf|HYJiLi J|HYJiLi-J|HYJiLi J|Regular|9.00.00|
+|HYJiLiW.ttf|HYJiLi W|HYJiLi-W|HYJiLi W|Regular|9.00.00|
 |HYJinChangTiJ.ttf|HYJinChangTiJ Regular|HYJinChangTiJ|HYJinChangTiJ|Regular|5.00|
+|HYJingJiF.ttf|HYJingJi F|HYJingJi-F|HYJingJi F|Regular|9.00.00|
+|HYJingJiJ.ttf|HYJingJi J|HYJingJi-J|HYJingJi J|Regular|9.00.00|
+|HYJingJiW.ttf|HYJingJi W|HYJingJi-W|HYJingJi W|Regular|9.00.00|
 |HYJinKaiJ.ttf|HYJinKaiJ Regular|HYJinKaiJ|HYJinKaiJ|Regular|5.00|
 |HYJinLingKeJing-ALiAI.ttf|HYJinLingKeJing-ALiAI|HYJinLingKeJing-ALiAI|HYJinLingKeJing-ALiAI|Regular|5.00|
+|HYJinLingKeJingF.ttf|HYJinLingKeJing F|HYJinLingKeJing-F|HYJinLingKeJing F|Regular|9.00.00|
+|HYJinLingKeJingJ.ttf|HYJinLingKeJing J|HYJinLingKeJing-J|HYJinLingKeJing J|Regular|9.00.00|
+|HYJinLingKeJingW.ttf|HYJinLingKeJing W|HYJinLingKeJing-W|HYJinLingKeJing W|Regular|9.00.00|
 |HYJunHei-35W.ttf|HYJunHei-35W|HYJunHei-CEW|HYJunHei-35W|Regular|5.00|
 |HYJunHei-45W.ttf|HYJunHei-45W|HYJunHei-DEW|HYJunHei-45W|Regular|5.00|
 |HYJunHei-55W.ttf|HYJunHei-55W|HYJunHei-EEW|HYJunHei-55W|Regular|5.001|
@@ -223,6 +285,9 @@
 |HYLiLiTiF.ttf|HYLiLiTiF|HYLiLiTiF|HYLiLiTiF|Regular|5.00|
 |HYLiLiTiJ.ttf|HYLiLiTiJ|HYLiLiTiJ|HYLiLiTiJ|Regular|5.00|
 |HYLiLiTiW.ttf|HYLiLiTiW|HYLiLiTiW|HYLiLiTiW|Regular|5.00|
+|HYLinFengTiF.ttf|HYLinFengTi F|HYLinFengTi-F|HYLinFengTi F|Regular|9.00.00|
+|HYLinFengTiJ.ttf|HYLinFengTi J|HYLinFengTi-J|HYLinFengTi J|Regular|9.00.00|
+|HYLinFengTiW.ttf|HYLinFengTi W|HYLinFengTi-W|HYLinFengTi W|Regular|9.00.00|
 |HYLingBoTiF.ttf|HYLingBoF|HYr1gf|HYLingBoF|Regular|3.53|
 |HYLingBoTiJ.ttf|HYLingBoJ|HYr1gj|HYLingBoJ|Regular|3.53|
 |HYLingXinTiF.ttf|HYLingXinF|HYk2gf|HYLingXinF|Regular|3.53|
@@ -245,6 +310,12 @@
 |HYMiaoHunZiYouTiW.ttf|HYMiaoHunZiYouTiW|HYMiaoHunZiYouTiW|HYMiaoHunZiYouTiW|Regular|5.00|
 |HYMiMiTiF.ttf|HYMiMiF|HYm1gf|HYMiMiF|Regular|3.53|
 |HYMiMiTiJ.ttf|HYMiMiJ|HYm1gj|HYMiMiJ|Regular|3.53|
+|HYMingChanKeBenF.ttf|HYMingChanKeBen F|HYMingChanKeBen-F|HYMingChanKeBen F|Regular|9.00.00|
+|HYMingChanKeBenJ.ttf|HYMingChanKeBen J|HYMingChanKeBen-J|HYMingChanKeBen J|Regular|9.00.00|
+|HYMingChanKeBenW.ttf|HYMingChanKeBen W|HYMingChanKeBen-W|HYMingChanKeBen W|Regular|9.00.00|
+|HYMiTangTiF.ttf|HYMiTangTi F|HYMiTangTi-F|HYMiTangTi F|Regular|9.00.00|
+|HYMiTangTiJ.ttf|HYMiTangTi J|HYMiTangTi-J|HYMiTangTi J|Regular|9.00.00|
+|HYMiTangTiW.ttf|HYMiTangTi W|HYMiTangTi-W|HYMiTangTi W|Regular|9.00.00|
 |HYNanGongTiJ.ttf|HYNanGongJ|HYh4gj|HYNanGongJ|Regular|3.53|
 |HYNuoMiTuanF.ttf|HYNuoMiTuanF|HYNuoMiTuanF|HYNuoMiTuanF|Regular|5.00|
 |HYNuoMiTuanJ.ttf|HYNuoMiTuanJ|HYNuoMiTuanJ|HYNuoMiTuanJ|Regular|5.00|
@@ -255,6 +326,12 @@
 |HYPingAnXingF.ttf|HYPingAnXingF Regular|HYPingAnXingF|HYPingAnXingF|Regular|5.00|
 |HYPingAnXingJ.ttf|HYPingAnXingJ Regular|HYPingAnXingJ|HYPingAnXingJ|Regular|5.00|
 |HYPPTiJ.ttf|HYPPTiJ Regular|HYPPTiJ|HYPPTiJ|Regular|5.01|
+|HYQianGuangF.ttf|HYQianGuang F|HYQianGuang-F|HYQianGuang F|Regular|9.00.00|
+|HYQianGuangJ.ttf|HYQianGuang J|HYQianGuang-J|HYQianGuang J|Regular|9.00.00|
+|HYQianGuangW.ttf|HYQianGuang W|HYQianGuang-W|HYQianGuang W|Regular|9.00.00|
+|HYQiDiXiaoKaiF.ttf|HYQiDiXiaoKai F|HYQiDiXiaoKai-F|HYQiDiXiaoKai F|Regular|9.00.00|
+|HYQiDiXiaoKaiJ.ttf|HYQiDiXiaoKai J|HYQiDiXiaoKai-J|HYQiDiXiaoKai J|Regular|9.00.00|
+|HYQiDiXiaoKaiW.ttf|HYQiDiXiaoKai W|HYQiDiXiaoKai-W|HYQiDiXiaoKai W|Regular|9.00.00|
 |HYQiHei-105F.ttf|HYQiHei-105F UltraBlack|HYQiHei-AZEF|HYQiHei-105F|UltraBlack|5.00|
 |HYQiHei-105JF.ttf|HYQiHei-105JF UltraBlack|HYQiHei-AZEJF|HYQiHei-105JF|UltraBlack|5.01|
 |HYQiHei-105J.ttf|HYQiHei-105J UltraBlack|HYQiHei-AZEJ|HYQiHei-105J|UltraBlack|5.00|
@@ -487,6 +564,9 @@
 |HYQinChuanShouShuF.ttf|HYQinChuanShouShuF|HYQinChuanShouShuF|HYQinChuanShouShuF|Regular|5.00|
 |HYQinChuanShouShuJ.ttf|HYQinChuanShouShuJ|HYQinChuanShouShuJ|HYQinChuanShouShuJ|Regular|5.00|
 |HYQinChuanShouShuW.ttf|HYQinChuanShouShuW|HYQinChuanShouShuW|HYQinChuanShouShuW|Regular|5.00|
+|HYQingFenTiF.ttf|HYQingFenTi F|HYQingFenTi-F|HYQingFenTi F|Regular|9.00.00|
+|HYQingFenTiJ.ttf|HYQingFenTi J|HYQingFenTi-J|HYQingFenTi J|Regular|9.00.00|
+|HYQingFenTiW.ttf|HYQingFenTi W|HYQingFenTi-W|HYQingFenTi W|Regular|9.00.00|
 |HYQingKongTiF.ttf|HYQingKongTiF Regular|HYQingKongTiF|HYQingKongTiF|Regular|5.00|
 |HYQingKongTiJ.ttf|HYQingKongTiJ Regular|HYQingKongTiJ|HYQingKongTiJ|Regular|5.00|
 |HYQingKongTiW.ttf|HYQingKongTiW Regular|HYQingKongTiW|HYQingKongTiW|Regular|5.00|
@@ -500,6 +580,9 @@
 |HYQingYunTiJ.ttf|HYQingYunJ|HYg4gj|HYQingYunJ|Regular|3.53|
 |HYQingYunTiW.ttf|HYQingYunTiW Regular|HYQingYunTiW|HYQingYunTiW|Regular|5.00|
 |HYQingYunW.ttf|HYQingYunW Regular|HYQingYunW|HYQingYunW|Regular|5.00|
+|HYQiuShiF.ttf|HYQiuShi F|HYQiuShi-F|HYQiuShi F|Regular|9.00.00|
+|HYQiuShiJ.ttf|HYQiuShi J|HYQiuShi-J|HYQiuShi J|Regular|9.00.00|
+|HYQiuShiW.ttf|HYQiuShi W|HYQiuShi-W|HYQiuShi W|Regular|9.00.00|
 |HYQuanTangShiF.ttf|HYQuanTangShiF Regular|HYQuanTangShiF|HYQuanTangShiF|Regular|5.00|
 |HYQuanTangShiJ.ttf|HYQuanTangShiJ Regular|HYQuanTangShiJ|HYQuanTangShiJ|Regular|5.00|
 |HYQuBaoF.ttf|HYQuBaoF|HYQuBaoF|HYQuBaoF|Regular|5.00|
@@ -508,9 +591,15 @@
 |HYQuHeiF.ttf|HYQuHeiF Regular|HYQuHeiF|HYQuHeiF|Regular|5.00|
 |HYQuHeiJ.ttf|HYQuHeiJ Regular|HYQuHeiJ|HYQuHeiJ|Regular|5.00|
 |HYQuHeiW.ttf|HYQuHeiW Regular|HYQuHeiW|HYQuHeiW|Regular|5.00|
+|HYRuiHuSongF.ttf|HYRuiHuSongF|HYRuiHuSongF|HYRuiHuSongF|Regular|9.00.02|
+|HYRuiHuSongJ.ttf|HYRuiHuSongJ|HYRuiHuSongJ|HYRuiHuSongJ|Regular|9.00.02|
+|HYRuiHuSongW.ttf|HYRuiHuSongW|HYRuiHuSongW|HYRuiHuSongW|Regular|9.00.02|
 |HYRuiYiSongF.ttf|HYRuiYiSongF Regular|HYRuiYiSongF|HYRuiYiSongF|Regular|5.00|
 |HYRuiYiSongJ.ttf|HYRuiYiSongJ Regular|HYRuiYiSongJ|HYRuiYiSongJ|Regular|5.00|
 |HYRuiYiSongW.ttf|HYRuiYiSongW Regular|HYRuiYiSongW|HYRuiYiSongW|Regular|5.00|
+|HYRuiYunFeiSongF.ttf|HYRuiYunFeiSong F|HYRuiYunFeiSong-F|HYRuiYunFeiSong F|Regular|9.00.00|
+|HYRuiYunFeiSongJ.ttf|HYRuiYunFeiSong J|HYRuiYunFeiSong-J|HYRuiYunFeiSong J|Regular|9.00.00|
+|HYRuiYunFeiSongW.ttf|HYRuiYunFeiSong W|HYRuiYunFeiSong-W|HYRuiYunFeiSong W|Regular|9.00.00|
 |HYRuiZhiF.ttf|HYRuiZhiF|HYRuiZhiF|HYRuiZhiF|Regular|5.00|
 |HYRuiZhiJ.ttf|HYRuiZhiJ|HYRuiZhiJ|HYRuiZhiJ|Regular|5.00|
 |HYRuiZhiW.ttf|HYRuiZhiW|HYRuiZhiW|HYRuiZhiW|Regular|5.00|
@@ -529,12 +618,21 @@
 |HYRunYuan-75F.ttf|HYRunYuan-75F Bold|HYRunYuan-GEW|HYRunYuan-75F|Bold|5.00|
 |HYRunYuan-75J.ttf|HYRunYuan-75J Bold|HYRunYuan-GEW|HYRunYuan-75J|Bold|5.00|
 |HYRunYuan-75W.ttf|HYRunYuan-75W Bold|HYRunYuan-GEW|HYRunYuan-75W|Bold|5.00|
+|HYShangWeiHeFengTiF.ttf|HYShangWeiHeFengTi F|HYShangWeiHeFengTi-F|HYShangWeiHeFengTi F|Regular|9.00.00|
+|HYShangWeiHeFengTiJ.ttf|HYShangWeiHeFengTi J|HYShangWeiHeFengTi-J|HYShangWeiHeFengTi J|Regular|9.00.00|
+|HYShangWeiHeFengTiW.ttf|HYShangWeiHeFengTi W|HYShangWeiHeFengTi-W|HYShangWeiHeFengTi W|Regular|9.00.00|
 |HYShangWeiLiuYunTiF.ttf|HYShangWeiLiuYunTiF|HYShangWeiLiuYunTiF|HYShangWeiLiuYunTiF|Regular|5.00|
 |HYShangWeiLiuYunTiJ.ttf|HYShangWeiLiuYun-J|HYShangWeiLiuYun-J|HYShangWeiLiuYun J|Regular|5.00|
 |HYShangWeiLiuYunTiW.ttf|HYShangWeiLiuYunTiW|HYShangWeiLiuYunTiW|HYShangWeiLiuYunTiW|Regular|5.00|
 |HYShangWeiMoFangTiF.ttf|HYShangWeiMoFangTiF|HYShangWeiMoFangTiF|HYShangWeiMoFangTiF|Regular|5.00|
 |HYShangWeiMoFangTiJ.ttf|HYShangWeiMoFangTiJ|HYShangWeiMoFangTiJ|HYShangWeiMoFangTiJ|Regular|5.00|
 |HYShangWeiMoFangTiW.ttf|HYShangWeiMoFangTiW|HYShangWeiMoFangTiW|HYShangWeiMoFangTiW|Regular|5.00|
+|HYShangWeiMoFaTiOriginalF.ttf|HYShangWeiMoFaTiOriginal F|HYShangWeiMoFaTiOriginal-F|HYShangWeiMoFaTiOriginal F|Regular|9.00.00|
+|HYShangWeiMoFaTiOriginalJ.ttf|HYShangWeiMoFaTiOriginal J|HYShangWeiMoFaTiOriginal-J|HYShangWeiMoFaTiOriginal J|Regular|9.00.00|
+|HYShangWeiMoFaTiOriginalW.ttf|HYShangWeiMoFaTiOriginal W|HYShangWeiMoFaTiOriginal-W|HYShangWeiMoFaTiOriginal W|Regular|9.00.00|
+|HYShangWeiMoFaTiTruingF.ttf|HYShangWeiMoFaTiTruing F|HYShangWeiMoFaTiTruing-F|HYShangWeiMoFaTiTruing F|Regular|9.00.00|
+|HYShangWeiMoFaTiTruingJ.ttf|HYShangWeiMoFaTiTruing J|HYShangWeiMoFaTiTruing-J|HYShangWeiMoFaTiTruing J|Regular|9.00.00|
+|HYShangWeiMoFaTiTruingW.ttf|HYShangWeiMoFaTiTruing W|HYShangWeiMoFaTiTruing-W|HYShangWeiMoFaTiTruing W|Regular|9.00.00|
 |HYShangWeiQingChaTiF.ttf|HYShangWeiQingChaTiF|HYShangWeiQingChaTiF|HYShangWeiQingChaTiF|Regular|5.00|
 |HYShangWeiQingChaTiJ.ttf|HYShangWeiQingChaTiJ|HYShangWeiQingChaTiJ|HYShangWeiQingChaTiJ|Regular|5.00|
 |HYShangWeiQingChaTiW.ttf|HYShangWeiQingChaTiW Regular|HYShangWeiQingChaTiW|HYShangWeiQingChaTiW|Regular|5.00|
@@ -547,6 +645,18 @@
 |HYShangWeiXiaoShiHouF.ttf|HYShangWeiXiaoShiHouF|HYShangWeiXiaoShiHouF|HYShangWeiXiaoShiHouF|Regular|5.00|
 |HYShangWeiXiaoShiHouJ.ttf|HYShangWeiXiaoShiHouJ|HYShangWeiXiaoShiHouJ|HYShangWeiXiaoShiHouJ|Regular|5.00|
 |HYShangWeiXiaoShiHouW.ttf|HYShangWeiXiaoShiHouW|HYShangWeiXiaoShiHouW|HYShangWeiXiaoShiHouW|Regular|5.00|
+|HYShangWeiXiaoWanTongF.ttf|HYShangWeiXiaoWanTong F|HYShangWeiXiaoWanTong-F|HYShangWeiXiaoWanTong F|Regular|9.00.00|
+|HYShangWeiXiaoWanTongJ.ttf|HYShangWeiXiaoWanTong J|HYShangWeiXiaoWanTong-J|HYShangWeiXiaoWanTong J|Regular|9.00.00|
+|HYShangWeiXiaoWanTongW.ttf|HYShangWeiXiaoWanTong W|HYShangWeiXiaoWanTong-W|HYShangWeiXiaoWanTong W|Regular|9.00.00|
+|HYShangWeiXuanFengTiF.ttf|HYShangWeiXuanFengTi F|HYShangWeiXuanFengTi-F|HYShangWeiXuanFengTi F|Regular|9.00.00|
+|HYShangWeiXuanFengTiJ.ttf|HYShangWeiXuanFengTi J|HYShangWeiXuanFengTi-J|HYShangWeiXuanFengTi J|Regular|9.00.00|
+|HYShangWeiXuanFengTiW.ttf|HYShangWeiXuanFengTi W|HYShangWeiXuanFengTi-W|HYShangWeiXuanFengTi W|Regular|9.00.00|
+|HYShangWeiZhiZhuoTiF.ttf|HYShangWeiZhiZhuoTi F|HYShangWeiZhiZhuoTi-F|HYShangWeiZhiZhuoTi F|Regular|9.00.00|
+|HYShangWeiZhiZhuoTiJ.ttf|HYShangWeiZhiZhuoTi J|HYShangWeiZhiZhuoTi-J|HYShangWeiZhiZhuoTi J|Regular|9.00.00|
+|HYShangWeiZhiZhuoTiW.ttf|HYShangWeiZhiZhuoTi W|HYShangWeiZhiZhuoTi-W|HYShangWeiZhiZhuoTi W|Regular|9.00.00|
+|HYShangWeiZiYouTiF.ttf|HYShangWeiZiYouTi F|HYShangWeiZiYouTi-F|HYShangWeiZiYouTi F|Regular|9.00.00|
+|HYShangWeiZiYouTiJ.ttf|HYShangWeiZiYouTi J|HYShangWeiZiYouTi-J|HYShangWeiZiYouTi J|Regular|9.00.00|
+|HYShangWeiZiYouTiW.ttf|HYShangWeiZiYouTi W|HYShangWeiZiYouTi-W|HYShangWeiZiYouTi W|Regular|9.00.00|
 |HYShenGongTiJ.ttf|HYShenGongJ|HYh2gj|HYShenGongJ|Regular|3.52|
 |HYShiGuangTiF.ttf|HYShiGuangTiF Regular|HYShiGuangTiF|HYShiGuangTiF|Regular|5.00|
 |HYShiGuangTiJ.ttf|HYShiGuangTiJ Regular|HYShiGuangTiJ|HYShiGuangTiJ|Regular|5.00|
@@ -579,6 +689,9 @@
 |HYSongYunLangHeiF.ttf|HYSongYunLangHeiF Regular|HYSongYunLangHeiF|HYSongYunLangHeiF|Regular|5.00|
 |HYSongYunLangHeiJ.ttf|HYSongYunLangHeiJ Regular|HYSongYunLangHeiJ|HYSongYunLangHeiJ|Regular|5.00|
 |HYSongYunLangHeiW.ttf|HYSongYunLangHeiW Regular|HYSongYunLangHeiW|HYSongYunLangHeiW|Regular|5.00|
+|HYSuJinLiF.ttf|HYSuJinLi F|HYSuJinLi-F|HYSuJinLi F|Regular|9.00.00|
+|HYSuJinLiJ.ttf|HYSuJinLi J|HYSuJinLi-J|HYSuJinLi J|Regular|9.00.00|
+|HYSuJinLiW.ttf|HYSuJinLi W|HYSuJinLi-W|HYSuJinLi W|Regular|9.00.00|
 |HYSunWanMinCaoShuF.ttf|HYSunWanMinCaoShuF|HYSunWanMinCaoShuF|HYSunWanMinCaoShuF|Regular|5.00|
 |HYSunWanMinCaoShuJ.ttf|HYSunWanMinCaoShuJ|HYSunWanMinCaoShuJ|HYSunWanMinCaoShuJ|Regular|5.00|
 |HYSunWanMinCaoShuW.ttf|HYSunWanMinCaoShuW|HYSunWanMinCaoShuW|HYSunWanMinCaoShuW|Regular|5.00|
@@ -598,6 +711,9 @@
 |HYTangTangCuTiJ.ttf|HYTangTangCuTiJ Regular|HYTangTangCuTiJ|HYTangTangCuTiJ|Regular|5.00|
 |HYTangTangTiJ.ttf|HYTangTangTiJ Regular|HYTangTangTiJ|HYTangTangTiJ|Regular|5.00|
 |HYTeXiDengXianJ.ttf|HYTeXiDengXianJ|HYg6gj|HYTeXiDengXianJ|Regular|3.53|
+|HYTianMaXingKaiF.ttf|HYTianMaXingKai F|HYTianMaXingKai-F|HYTianMaXingKai F|Regular|9.00.00|
+|HYTianMaXingKaiJ.ttf|HYTianMaXingKai J|HYTianMaXingKai-J|HYTianMaXingKai J|Regular|9.00.00|
+|HYTianMaXingKaiW.ttf|HYTianMaXingKai W|HYTianMaXingKai-W|HYTianMaXingKai W|Regular|9.00.00|
 |HYTianNuoLiXianF.ttf|HYTianNuoLiXianF|HYTianNuoLiXianF|HYTianNuoLiXianF|Regular|9.00.00|
 |HYTianNuoLiXianJ.ttf|HYTianNuoLiXianJ|HYTianNuoLiXianJ|HYTianNuoLiXianJ|Regular|9.00.00|
 |HYTianNuoLiXianW.ttf|HYTianNuoLiXianW|HYTianNuoLiXianW|HYTianNuoLiXianW|Regular|9.00.00|
@@ -608,6 +724,7 @@
 |HYTianYuFengXingTiJ.ttf|HYTianYuFengXingTiJ|HYTianYuFengXingTiJ|HYTianYuFengXingTiJ|Regular|5.00|
 |HYTianYuFengXingTiW.ttf|HYTianYuFengXingTiW|HYTianYuFengXingTiW|HYTianYuFengXingTiW|Regular|5.00|
 |HYTianZhenTi-AliAI修正版.ttf|HYTianZhenTi-AliAI|HYTianZhenTi-AliAI|HYTianZhenTi-AliAI|Regular|V5.00|
+|HYTianZhenTi.ttf|HYTianZhenTi|HYTianZhenTi|HYTianZhenTi|Regular|9.00.00|
 |HYTiaoTiaoTiJ.ttf|HYTiaoTiaoTiJ Regular|HYTiaoTiaoTiJ|HYTiaoTiaoTiJ|Regular|5.00|
 |HYTieShanLiShuF.ttf|HYTieShanLiShuF Regular|HYTieShanLiShuF|HYTieShanLiShuF|Regular|5.00|
 |HYTieShanLiShuJ.ttf|HYTieShanLiShuJ Regular|HYTieShanLiShuJ|HYTieShanLiShuJ|Regular|5.00|
@@ -647,6 +764,9 @@
 |HYXiaoBoGangGuF.ttf|HYXiaoBoGangGuF|HYXiaoBoGangGuF|HYXiaoBoGangGuF|Regular|5.00|
 |HYXiaoBoGangGuJ.ttf|HYXiaoBoGangGuJ|HYXiaoBoGangGuJ|HYXiaoBoGangGuJ|Regular|5.00|
 |HYXiaoBoGangGuW.ttf|HYXiaoBoGangGuW|HYXiaoBoGangGuW|HYXiaoBoGangGuW|Regular|5.00|
+|HYXiaoBoHeiQiShiF.ttf|HYXiaoBoHeiQiShi F|HYXiaoBoHeiQiShi-F|HYXiaoBoHeiQiShi F|Regular|9.00.00|
+|HYXiaoBoHeiQiShiJ.ttf|HYXiaoBoHeiQiShi J|HYXiaoBoHeiQiShi-J|HYXiaoBoHeiQiShi J|Regular|9.00.00|
+|HYXiaoBoHeiQiShiW.ttf|HYXiaoBoHeiQiShi W|HYXiaoBoHeiQiShi-W|HYXiaoBoHeiQiShi W|Regular|9.00.00|
 |HYXiaoBoHuaBaoHeiW.ttf|HYXiaoBoHuaBaoHeiW|HYXiaoBoHuaBaoHeiW|HYXiaoBoHuaBaoHeiW|Regular|5.00|
 |HYXiaoBoHuaYueYuan-ALiAI.ttf|HYXiaoBoHuaYueYuan-ALiAI|HYXiaoBoHuaYueYuan-ALiAI|HYXiaoBoHuaYueYuan-ALiAI|Regular|5.00|
 |HYXiaoBoHuaYueYuanF.ttf|HYXiaoBoHuaYueYuanF|HYXiaoBoHuaYueYuanF|HYXiaoBoHuaYueYuanF|Regular|5.00|
@@ -655,9 +775,18 @@
 |HYXiaoBoMeiYanTiF.ttf|HYXiaoBoMeiYanTiF Regular|HYXiaoBoMeiYanTiF|HYXiaoBoMeiYanTiF|Regular|5.00|
 |HYXiaoBoMeiYanTiJ.ttf|HYXiaoBoMeiYanTiJ Regular|HYXiaoBoMeiYanTiJ|HYXiaoBoMeiYanTiJ|Regular|5.00|
 |HYXiaoBoMeiYanTiW.ttf|HYXiaoBoMeiYanTiW Regular|HYXiaoBoMeiYanTiW|HYXiaoBoMeiYanTiW|Regular|5.00|
+|HYXiaoBoMengXiangJiaF.ttf|HYXiaoBoMengXiangJia F|HYXiaoBoMengXiangJia-F|HYXiaoBoMengXiangJia F|Regular|9.00.00|
+|HYXiaoBoMengXiangJiaJ.ttf|HYXiaoBoMengXiangJia J|HYXiaoBoMengXiangJia-J|HYXiaoBoMengXiangJia J|Regular|9.00.00|
+|HYXiaoBoMengXiangJiaW.ttf|HYXiaoBoMengXiangJia W|HYXiaoBoMengXiangJia-W|HYXiaoBoMengXiangJia W|Regular|9.00.00|
+|HYXiaoBoNuanSongF.ttf|HYXiaoBoNuanSong F|HYXiaoBoNuanSong-F|HYXiaoBoNuanSong F|Regular|9.00.00|
+|HYXiaoBoNuanSongJ.ttf|HYXiaoBoNuanSong J|HYXiaoBoNuanSong-J|HYXiaoBoNuanSong J|Regular|9.00.00|
+|HYXiaoBoNuanSongW.ttf|HYXiaoBoNuanSong W|HYXiaoBoNuanSong-W|HYXiaoBoNuanSong W|Regular|9.00.00|
 |HYXiaoBoShuHeiF.ttf|HYXiaoBoShuHeiF|HYXiaoBoShuHeiF|HYXiaoBoShuHeiF|Regular|5.00|
 |HYXiaoBoShuHeiJ.ttf|HYXiaoBoShuHeiJ|HYXiaoBoShuHeiJ|HYXiaoBoShuHeiJ|Regular|5.00|
 |HYXiaoBoShuHeiW.ttf|HYXiaoBoShuHeiW|HYXiaoBoShuHeiW|HYXiaoBoShuHeiW|Regular|5.00|
+|HYXiaoBoXiongMaoTiF.ttf|HYXiaoBoXiongMaoTi F|HYXiaoBoXiongMaoTi-F|HYXiaoBoXiongMaoTi F|Regular|9.00.00|
+|HYXiaoBoXiongMaoTiJ.ttf|HYXiaoBoXiongMaoTi J|HYXiaoBoXiongMaoTi-J|HYXiaoBoXiongMaoTi J|Regular|9.00.00|
+|HYXiaoBoXiongMaoTiW.ttf|HYXiaoBoXiongMaoTi W|HYXiaoBoXiongMaoTi-W|HYXiaoBoXiongMaoTi W|Regular|9.00.00|
 |HYXiaoBoYuHeiF.ttf|HYXiaoBoYuHeiF|HYXiaoBoYuHeiF|HYXiaoBoYuHeiF|Regular|9.00.00|
 |HYXiaoBoYuHeiJ.ttf|HYXiaoBoYuHeiJ|HYXiaoBoYuHeiJ|HYXiaoBoYuHeiJ|Regular|9.00.00|
 |HYXiaoBoYuHeiW.ttf|HYXiaoBoYuHeiW|HYXiaoBoYuHeiW|HYXiaoBoYuHeiW|Regular|9.00.00|
@@ -683,12 +812,30 @@
 |HYXingShiTiJ.ttf|HYXingShiJ|HYb5gj|HYXingShiJ|Regular|3.53|
 |HYXingYuTiF.ttf|HYXingYuTiF Regular|HYXingYuTiF|HYXingYuTiF|Regular|5.00|
 |HYXingYuTiJ.ttf|HYXingYuTiJ Regular|HYXingYuTiJ|HYXingYuTiJ|Regular|5.00|
+|HYXinHaiXingKaiF.ttf|HYXinHaiXingKaiF|HYXinHaiXingKaiF|HYXinHaiXingKaiF|Regular|9.00.00|
+|HYXinHaiXingKaiJ.ttf|HYXinHaiXingKaiJ|HYXinHaiXingKaiJ|HYXinHaiXingKaiJ|Regular|9.00.00|
+|HYXinHaiXingKaiW.ttf|HYXinHaiXingKaiW|HYXinHaiXingKaiW|HYXinHaiXingKaiW|Regular|9.00.00|
+|HYXinHaiXingShuF.ttf|HYXinHaiXingShu F|HYXinHaiXingShu-F|HYXinHaiXingShu F|Regular|9.00.00|
+|HYXinHaiXingShuJ.ttf|HYXinHaiXingShu J|HYXinHaiXingShu-J|HYXinHaiXingShu J|Regular|9.00.00|
+|HYXinHaiXingShuW.ttf|HYXinHaiXingShu W|HYXinHaiXingShu-W|HYXinHaiXingShu W|Regular|9.00.00|
+|HYXinRenWenSong55F.ttf|HYXinRenWenSong 55F|HYXinRenWenSong-EEF|HYXinRenWenSong 55F|Regular|9.00.10|
+|HYXinRenWenSong55J.ttf|HYXinRenWenSong 55J|HYXinRenWenSong-EEJ|HYXinRenWenSong 55J|Regular|9.00.10|
+|HYXinRenWenSong55W.ttf|HYXinRenWenSong 55W|HYXinRenWenSong-EEW|HYXinRenWenSong 55W|Regular|9.00.10|
+|HYXinRenWenSong65F.ttf|HYXinRenWenSong 65F|HYXinRenWenSong-FEF|HYXinRenWenSong 65F|Regular|9.00.10|
+|HYXinRenWenSong65J.ttf|HYXinRenWenSong 65J|HYXinRenWenSong-FEJ|HYXinRenWenSong 65J|Regular|9.00.10|
+|HYXinRenWenSong65W.ttf|HYXinRenWenSong 65W|HYXinRenWenSong-FEW|HYXinRenWenSong 65W|Regular|9.00.10|
+|HYXinRenWenSong75F.ttf|HYXinRenWenSong 75F|HYXinRenWenSong-GEF|HYXinRenWenSong 75F|Regular|9.00.10|
+|HYXinRenWenSong75J.ttf|HYXinRenWenSong 75J|HYXinRenWenSong-GEJ|HYXinRenWenSong 75J|Regular|9.00.10|
+|HYXinRenWenSong75W.ttf|HYXinRenWenSong 75W|HYXinRenWenSong-GEW|HYXinRenWenSong 75W|Regular|9.00.10|
 |HYXinRenWenSongF.ttf|HYXinRenWenSongF Regular|HYXinRenWenSongF|HYXinRenWenSongF|Regular|5.00|
 |HYXinRenWenSongJ.ttf|HYXinRenWenSongJ Regular|HYXinRenWenSongJ|HYXinRenWenSongJ|Regular|5.00|
 |HYXinRenWenSongW.ttf|HYXinRenWenSongW Regular|HYXinRenWenSongW|HYXinRenWenSongW|Regular|5.00|
 |HYXinXiuTiF.ttf|HYXinXiuTiF|HYXinXiuTiF|HYXinXiuTiF|Regular|5.00|
 |HYXinXiuTiJ.ttf|HYXinXiuTiJ|HYXinXiuTiJ|HYXinXiuTiJ|Regular|5.00|
 |HYXinXiuTiW.ttf|HYXinXiuTiW|HYXinXiuTiW|HYXinXiuTiW|Regular|5.00|
+|HYXiRuF.ttf|HYXiRu F|HYXiRu-F|HYXiRu F|Regular|9.00.00|
+|HYXiRuJ.ttf|HYXiRu J|HYXiRu-J|HYXiRu J|Regular|9.00.00|
+|HYXiRuW.ttf|HYXiRu W|HYXiRu-W|HYXiRu W|Regular|9.00.00|
 |HYXiuYingTiF.ttf|HYXiuYingF|HYy1gf|HYXiuYingF|Regular|3.53|
 |HYXiuYingTiJ.ttf|HYXiuYingJ|HYy1gj|HYXiuYingJ|Regular|3.53|
 |HYXiXingKaiB5.ttf|HYXiXingKaiB5 Regular|HYXiXingKaiB5|HYXiXingKaiB5|Regular|5.00|
@@ -724,7 +871,7 @@
 |HYYanKaiF.1.ttf|HYYanKaiF|HYx4gf|HYYanKaiF|Regular|3.53|
 |HYYanKaiF.ttf|HYYanKaiF|HYYanKaiF|HYYanKaiF|Regular|5.00|
 |HYYanKaiJ.ttf|HYYanKaiJ|HYYanKaiJ|HYYanKaiJ|Regular|5.00|
-|HYYanKaiW.ttf|HYYanKaiW Regular|HYYanKaiW|HYYanKaiW|Regular|5.01|
+|HYYanKaiW.ttf|HYYanKai W|HYYanKai-W|HYYanKai W|Regular|5.03|
 |HYYanLingTiJ.ttf|HYYanLingJ|HYf4gj|HYYanLingJ|Regular|3.53|
 |HYYanRuiMinXingKaiF.ttf|HYYanRuiMinXingKaiF Regular|HYYanRuiMinXingKaiF|HYYanRuiMinXingKaiF|Regular|5.00|
 |HYYanRuiMinXingKaiJ.ttf|HYYanRuiMinXingKaiJ Regular|HYYanRuiMinXingKaiJ|HYYanRuiMinXingKaiJ|Regular|5.00|
@@ -745,13 +892,25 @@
 |HYYuanLongHei-105F.ttf|HYYuanLongHei-105F|HYYuanLongHei-AZEF|HYYuanLongHei-105F|Regular|5.00|
 |HYYuanLongHei-105J.ttf|HYYuanLongHei-105J|HYYuanLongHei-AZEJ|HYYuanLongHei-105J|Regular|5.00|
 |HYYuanLongHei-105W.ttf|HYYuanLongHei-105W|HYYuanLongHei-AZEW|HYYuanLongHei-105W|Regular|5.00|
+|HYYuanLongHei35F.ttf|HYYuanLongHei 35F|HYYuanLongHei-CEF|HYYuanLongHei 35F|Regular|9.00.00|
 |HYYuanLongHei-35J.ttf|HYYuanLongHei-35J Thin|HYYuanLongHei-CEJ|HYYuanLongHei-35J|Thin|5.00|
+|HYYuanLongHei35J.ttf|HYYuanLongHei 35J|HYYuanLongHei-CEJ|HYYuanLongHei 35J|Regular|9.00.00|
+|HYYuanLongHei35W.ttf|HYYuanLongHei 35W|HYYuanLongHei-CEW|HYYuanLongHei 35W|Regular|9.00.00|
 |HYYuanLongHei-85F.ttf|HYYuanLongHei-85F|HYYuanLongHei-85F|HYYuanLongHei-85F|Regular|5.00|
 |HYYuanLongHei-85J.ttf|HYYuanLongHei-85J|HYYuanLongHei-85J|HYYuanLongHei-85J|Regular|5.00|
 |HYYuanLongHei-85W.ttf|HYYuanLongHei-85W|HYYuanLongHei-85W|HYYuanLongHei-85W|Regular|5.00|
+|HYYuanRongTiF.ttf|HYYuanRongTi F|HYYuanRongTi-F|HYYuanRongTi F|Regular|9.00.00|
+|HYYuanRongTiJ.ttf|HYYuanRongTi J|HYYuanRongTi-J|HYYuanRongTi J|Regular|9.00.00|
+|HYYuanRongTiW.ttf|HYYuanRongTi W|HYYuanRongTi-W|HYYuanRongTi W|Regular|9.00.00|
 |HYYuanTiLiShuF.ttf|HYYuanTiLiShuF|HYYuanTiLiShuF|HYYuanTiLiShuF|Regular|5.00|
 |HYYuanTiLiShuJ.ttf|HYYuanTiLiShuJ|HYYuanTiLiShuJ|HYYuanTiLiShuJ|Regular|5.00|
 |HYYuanTiLiShuW.ttf|HYYuanTiLiShuW|HYYuanTiLiShuW|HYYuanTiLiShuW|Regular|5.00|
+|HYYueGuangWuF.ttf|HYYueGuangWu F|HYYueGuangWu-F|HYYueGuangWu F|Regular|9.00.00|
+|HYYueGuangWuJ.ttf|HYYueGuangWu J|HYYueGuangWu-J|HYYueGuangWu J|Regular|9.00.00|
+|HYYueGuangWuW.ttf|HYYueGuangWu W|HYYueGuangWu-W|HYYueGuangWu W|Regular|9.00.00|
+|HYZengXiangChanQuTiF.ttf|HYZengXiangChanQuTiF|HYZengXiangChanQuTiF|HYZengXiangChanQuTiF|Regular|9.00.00|
+|HYZengXiangChanQuTiJ.ttf|HYZengXiangChanQuTiJ|HYZengXiangChanQuTiJ|HYZengXiangChanQuTiJ|Regular|9.00.00|
+|HYZengXiangChanQuTiW.ttf|HYZengXiangChanQuTiW|HYZengXiangChanQuTiW|HYZengXiangChanQuTiW|Regular|9.00.00|
 |HYZhangNaiRenXingShuF.ttf|HYZhangNaiRenXingShuF Regular|HYZhangNaiRenXingShuF|HYZhangNaiRenXingShuF|Regular|5.00|
 |HYZhangNaiRenXingShuJ.ttf|HYZhangNaiRenXingShuJ Regular|HYZhangNaiRenXingShuJ|HYZhangNaiRenXingShuJ|Regular|5.00|
 |HYZhangNaiRenXingShuW.ttf|HYZhangNaiRenXingShuW Regular|HYZhangNaiRenXingShuW|HYZhangNaiRenXingShuW|Regular|5.00|
@@ -803,22 +962,43 @@
 |HYZhuZiChaoRanTiF.ttf|HYZhuZiChaoRanTiF|HYZhuZiChaoRanTiF|HYZhuZiChaoRanTiF|Regular|5.00|
 |HYZhuZiChaoRanTiJ.ttf|HYZhuZiChaoRanTiJ|HYZhuZiChaoRanTiJ|HYZhuZiChaoRanTiJ|Regular|5.00|
 |HYZhuZiChaoRanTiW.ttf|HYZhuZiChaoRanTiW|HYZhuZiChaoRanTiW|HYZhuZiChaoRanTiW|Regular|5.00|
+|HYZhuZiErTongLeYuanF.ttf|HYZhuZiErTongLeYuan F|HYZhuZiErTongLeYuan-F|HYZhuZiErTongLeYuan F|Regular|9.00.00|
+|HYZhuZiErTongLeYuanJ.ttf|HYZhuZiErTongLeYuan J|HYZhuZiErTongLeYuan-J|HYZhuZiErTongLeYuan J|Regular|9.00.00|
+|HYZhuZiErTongLeYuanW.ttf|HYZhuZiErTongLeYuan W|HYZhuZiErTongLeYuan-W|HYZhuZiErTongLeYuan W|Regular|9.00.00|
 |HYZhuZiHeiMoFaF.ttf|HYZhuZiHeiMoFaF|HYZhuZiHeiMoFaF|HYZhuZiHeiMoFaF|Regular|5.00|
 |HYZhuZiHeiMoFaJ.ttf|HYZhuZiHeiMoFaJ|HYZhuZiHeiMoFaJ|HYZhuZiHeiMoFaJ|Regular|5.00|
 |HYZhuZiHeiMoFaTiW.ttf|HYZhuZiHeiMoFaTiW|HYZhuZiHeiMoFaTiW|HYZhuZiHeiMoFaTiW|Regular|5.00|
 |HYZhuZiHeiMoFaW.ttf|HYZhuZiHeiMoFaW|HYZhuZiHeiMoFaW|HYZhuZiHeiMoFaW|Regular|5.00|
+|HYZhuZiHeiSenLinF.ttf|HYZhuZiHeiSenLin F|HYZhuZiHeiSenLin-F|HYZhuZiHeiSenLin F|Regular|9.00.00|
+|HYZhuZiHeiSenLinJ.ttf|HYZhuZiHeiSenLin J|HYZhuZiHeiSenLin-J|HYZhuZiHeiSenLin J|Regular|9.00.00|
+|HYZhuZiHeiSenLinW.ttf|HYZhuZiHeiSenLin W|HYZhuZiHeiSenLin-W|HYZhuZiHeiSenLin W|Regular|9.00.00|
 |HYZhuZiHuLuWaF.ttf|HYZhuZiHuLuWaF|HYZhuZiHuLuWaF|HYZhuZiHuLuWaF|Regular|5.00|
 |HYZhuZiHuLuWaJ.ttf|HYZhuZiHuLuWaJ|HYZhuZiHuLuWaJ|HYZhuZiHuLuWaJ|Regular|5.00|
 |HYZhuZiHuLuWaW.ttf|HYZhuZiHuLuWaW|HYZhuZiHuLuWaW|HYZhuZiHuLuWaW|Regular|5.00|
 |HYZhuZiKaKuTiF.ttf|HYZhuZiKaKuTiF|HYZhuZiKaKuTiF|HYZhuZiKaKuTiF|Regular|5.00|
 |HYZhuZiKaKuTiJ.ttf|HYZhuZiKaKuTiJ|HYZhuZiKaKuTiJ|HYZhuZiKaKuTiJ|Regular|5.00|
 |HYZhuZiKaKuTiW.ttf|HYZhuZiKaKuTiW|HYZhuZiKaKuTiW|HYZhuZiKaKuTiW|Regular|5.00|
+|HYZhuZiLeTaoF.ttf|HYZhuZiLeTao F|HYZhuZiLeTao-F|HYZhuZiLeTao F|Regular|9.00.00|
+|HYZhuZiLeTaoJ.ttf|HYZhuZiLeTao J|HYZhuZiLeTao-J|HYZhuZiLeTao J|Regular|9.00.00|
+|HYZhuZiLeTaoW.ttf|HYZhuZiLeTao W|HYZhuZiLeTao-W|HYZhuZiLeTao W|Regular|9.00.00|
+|HYZhuZiLeTianPaiF.ttf|HYZhuZiLeTianPai F|HYZhuZiLeTianPai-F|HYZhuZiLeTianPai F|Regular|9.00.00|
+|HYZhuZiLeTianPaiJ.ttf|HYZhuZiLeTianPai J|HYZhuZiLeTianPai-J|HYZhuZiLeTianPai J|Regular|9.00.00|
+|HYZhuZiLeTianPaiW.ttf|HYZhuZiLeTianPai W|HYZhuZiLeTianPai-W|HYZhuZiLeTianPai W|Regular|9.00.00|
 |HYZhuZiLieYanTiF.ttf|HYZhuZiLieYanTiF|HYZhuZiLieYanTiF|HYZhuZiLieYanTiF|Regular|5.00|
 |HYZhuZiLieYanTiJ.ttf|HYZhuZiLieYanTiJ|HYZhuZiLieYanTiJ|HYZhuZiLieYanTiJ|Regular|5.00|
 |HYZhuZiLieYanTiW.ttf|HYZhuZiLieYanTiW|HYZhuZiLieYanTiW|HYZhuZiLieYanTiW|Regular|5.00|
+|HYZhuZiMaoXianDaoF.ttf|HYZhuZiMaoXianDao F|HYZhuZiMaoXianDao-F|HYZhuZiMaoXianDao F|Regular|9.00.00|
+|HYZhuZiMaoXianDaoJ.ttf|HYZhuZiMaoXianDao J|HYZhuZiMaoXianDao-J|HYZhuZiMaoXianDao J|Regular|9.00.00|
+|HYZhuZiMaoXianDaoW.ttf|HYZhuZiMaoXianDao W|HYZhuZiMaoXianDao-W|HYZhuZiMaoXianDao W|Regular|9.00.00|
+|HYZhuZiMaXiTuanF.ttf|HYZhuZiMaXiTuan F|HYZhuZiMaXiTuan-F|HYZhuZiMaXiTuan F|Regular|9.00.00|
+|HYZhuZiMaXiTuanJ.ttf|HYZhuZiMaXiTuan J|HYZhuZiMaXiTuan-J|HYZhuZiMaXiTuan J|Regular|9.00.00|
+|HYZhuZiMaXiTuanW.ttf|HYZhuZiMaXiTuan W|HYZhuZiMaXiTuan-W|HYZhuZiMaXiTuan W|Regular|9.00.00|
 |HYZhuZiMeiXinTiF.ttf|HYZhuZiMeiXinTiF|HYZhuZiMeiXinTiF|HYZhuZiMeiXinTiF|Regular|5.00|
 |HYZhuZiMeiXinTiJ.ttf|HYZhuZiMeiXinTiJ|HYZhuZiMeiXinTiJ|HYZhuZiMeiXinTiJ|Regular|5.00|
 |HYZhuZiMeiXinTiW.ttf|HYZhuZiMeiXinTiW|HYZhuZiMeiXinTiW|HYZhuZiMeiXinTiW|Regular|5.00|
+|HYZhuZiMiaoMiaoWuF.ttf|HYZhuZiMiaoMiaoWu F|HYZhuZiMiaoMiaoWu-F|HYZhuZiMiaoMiaoWu F|Regular|9.00.00|
+|HYZhuZiMiaoMiaoWuJ.ttf|HYZhuZiMiaoMiaoWu J|HYZhuZiMiaoMiaoWu-J|HYZhuZiMiaoMiaoWu J|Regular|9.00.00|
+|HYZhuZiMiaoMiaoWuW.ttf|HYZhuZiMiaoMiaoWu W|HYZhuZiMiaoMiaoWu-W|HYZhuZiMiaoMiaoWu W|Regular|9.00.00|
 |HYZhuZiMuTouRenF.ttf|HYZhuZiMuTouRenF|HYZhuZiMuTouRenF|HYZhuZiMuTouRenF|Regular|5.00|
 |HYZhuZiMuTouRenJ.ttf|HYZhuZiMuTouRenJ|HYZhuZiMuTouRenJ|HYZhuZiMuTouRenJ|Regular|5.00|
 |HYZhuZiMuTouRenW.ttf|HYZhuZiMuTouRenW|HYZhuZiMuTouRenW|HYZhuZiMuTouRenW|Regular|5.00|
@@ -831,15 +1011,24 @@
 |HYZhuZiTongNianTiF.ttf|HYZhuZiTongNianTiF|HYZhuZiTongNianTiF|HYZhuZiTongNianTiF|Regular|5.00|
 |HYZhuZiTongNianTiJ.ttf|HYZhuZiTongNianTiJ|HYZhuZiTongNianTiJ|HYZhuZiTongNianTiJ|Regular|5.00|
 |HYZhuZiTongNianTiW.ttf|HYZhuZiTongNianTiW|HYZhuZiTongNianTiW|HYZhuZiTongNianTiW|Regular|5.00|
+|HYZhuZiWangCaiF.ttf|HYZhuZiWangCai F|HYZhuZiWangCai-F|HYZhuZiWangCai F|Regular|9.00.00|
+|HYZhuZiWangCaiJ.ttf|HYZhuZiWangCai J|HYZhuZiWangCai-J|HYZhuZiWangCai J|Regular|9.00.00|
+|HYZhuZiWangCaiW.ttf|HYZhuZiWangCai W|HYZhuZiWangCai-W|HYZhuZiWangCai W|Regular|9.00.00|
 |HYZhuZiXiaoJingLingF.ttf|HYZhuZiXiaoJingLingF|HYZhuZiXiaoJingLingF|HYZhuZiXiaoJingLingF|Regular|9.00.00|
 |HYZhuZiXiaoJingLingJ.ttf|HYZhuZiXiaoJingLingJ|HYZhuZiXiaoJingLingJ|HYZhuZiXiaoJingLingJ|Regular|9.00.00|
 |HYZhuZiXiaoJingLingW.ttf|HYZhuZiXiaoJingLingW|HYZhuZiXiaoJingLingW|HYZhuZiXiaoJingLingW|Regular|9.00.00|
+|HYZhuZiXingJiHeiF.ttf|HYZhuZiXingJiHei F|HYZhuZiXingJiHei-F|HYZhuZiXingJiHei F|Regular|9.00.00|
+|HYZhuZiXingJiHeiJ.ttf|HYZhuZiXingJiHei J|HYZhuZiXingJiHei-J|HYZhuZiXingJiHei J|Regular|9.00.00|
+|HYZhuZiXingJiHeiW.ttf|HYZhuZiXingJiHei W|HYZhuZiXingJiHei-W|HYZhuZiXingJiHei W|Regular|9.00.00|
 |HYZhuZiZaHuoPuF.ttf|HYZhuZiZaHuoPuF|HYZhuZiZaHuoPuF|HYZhuZiZaHuoPuF|Regular|9.00.00|
 |HYZhuZiZaHuoPuJ.ttf|HYZhuZiZaHuoPuJ|HYZhuZiZaHuoPuJ|HYZhuZiZaHuoPuJ|Regular|9.00.00|
 |HYZhuZiZaHuoPuW.ttf|HYZhuZiZaHuoPuW|HYZhuZiZaHuoPuW|HYZhuZiZaHuoPuW|Regular|9.00.00|
 |HYZhuZiZhaoPaiHeiF.ttf|HYZhuZiZhaoPaiHeiF|HYZhuZiZhaoPaiHeiF|HYZhuZiZhaoPaiHeiF|Regular|5.00|
 |HYZhuZiZhaoPaiHeiJ.ttf|HYZhuZiZhaoPaiHeiJ|HYZhuZiZhaoPaiHeiJ|HYZhuZiZhaoPaiHeiJ|Regular|5.00|
 |HYZhuZiZhaoPaiHeiW.ttf|HYZhuZiZhaoPaiHeiW|HYZhuZiZhaoPaiHeiW|HYZhuZiZhaoPaiHeiW|Regular|5.00|
+|HYZhuZiZhiYuanF.ttf|HYZhuZiZhiYuan F|HYZhuZiZhiYuan-F|HYZhuZiZhiYuan F|Regular|9.00.00|
+|HYZhuZiZhiYuanJ.ttf|HYZhuZiZhiYuan J|HYZhuZiZhiYuan-J|HYZhuZiZhiYuan J|Regular|9.00.00|
+|HYZhuZiZhiYuanW.ttf|HYZhuZiZhiYuan W|HYZhuZiZhiYuan-W|HYZhuZiZhiYuan W|Regular|9.00.00|
 |HYZiDianSongF.ttf|HYZiDianSongF|HYa7gf|HYZiDianSongF|Regular|3.53|
 |HYZiDianSongJ.ttf|HYZiDianSongJ|HYa7gj|HYZiDianSongJ|Regular|3.53|
 |HYZiDianSongS.ttf|HYZiDianSong|HYa7gb3|HYZiDianSong|Regular| 3.53|
@@ -849,7 +1038,22 @@
 |HYZiKuTangDengShiXiaoKaiF.ttf|HYZiKuTangDengShiXiaoKaiF|HYZiKuTangDengShiXiaoKaiF|HYZiKuTangDengShiXiaoKaiF|Regular|9.00.00|
 |HYZiKuTangDengShiXiaoKaiJ.ttf|HYZiKuTangDengShiXiaoKaiJ|HYZiKuTangDengShiXiaoKaiJ|HYZiKuTangDengShiXiaoKaiJ|Regular|9.00.00|
 |HYZiKuTangDengShiXiaoKaiW.ttf|HYZiKuTangDengShiXiaoKaiW|HYZiKuTangDengShiXiaoKaiW|HYZiKuTangDengShiXiaoKaiW|Regular|9.00.00|
+|HYZiKuTangJingJieKaiTiF.ttf|HYZiKuTangJingJieKaiTi F|HYZiKuTangJingJieKaiTi-F|HYZiKuTangJingJieKaiTi F|Regular|9.00.00|
+|HYZiKuTangJingJieKaiTiJ.ttf|HYZiKuTangJingJieKaiTi J|HYZiKuTangJingJieKaiTi-J|HYZiKuTangJingJieKaiTi J|Regular|9.00.00|
+|HYZiKuTangJingJieKaiTiW.ttf|HYZiKuTangJingJieKaiTi W|HYZiKuTangJingJieKaiTi-W|HYZiKuTangJingJieKaiTi W|Regular|9.00.00|
+|HYZiKuTangNanYuanXingKaiF.ttf|HYZiKuTangNanYuanXingKai F|HYZiKuTangNanYuanXingKai-F|HYZiKuTangNanYuanXingKai F|Regular|9.00.00|
+|HYZiKuTangNanYuanXingKaiJ.ttf|HYZiKuTangNanYuanXingKai J|HYZiKuTangNanYuanXingKai-J|HYZiKuTangNanYuanXingKai J|Regular|9.00.00|
+|HYZiKuTangNanYuanXingKaiW.ttf|HYZiKuTangNanYuanXingKai W|HYZiKuTangNanYuanXingKai-W|HYZiKuTangNanYuanXingKai W|Regular|9.00.00|
+|HYZiKuTangSongKeBenLiKaiF.ttf|HYZiKuTangSongKeBenLiKai F|HYZiKuTangSongKeBenLiKai-F|HYZiKuTangSongKeBenLiKai F|Regular|9.00.00|
+|HYZiKuTangSongKeBenLiKaiJ.ttf|HYZiKuTangSongKeBenLiKai J|HYZiKuTangSongKeBenLiKai-J|HYZiKuTangSongKeBenLiKai J|Regular|9.00.00|
+|HYZiKuTangSongKeBenLiKaiW.ttf|HYZiKuTangSongKeBenLiKai W|HYZiKuTangSongKeBenLiKai-W|HYZiKuTangSongKeBenLiKai W|Regular|9.00.00|
+|HYZiKuTangYinJiaKaiShuF.ttf|HYZiKuTangYinJiaKaiShu F|HYZiKuTangYinJiaKaiShu-F|HYZiKuTangYinJiaKaiShu F|Regular|9.00.00|
+|HYZiKuTangYinJiaKaiShuJ.ttf|HYZiKuTangYinJiaKaiShu J|HYZiKuTangYinJiaKaiShu-J|HYZiKuTangYinJiaKaiShu J|Regular|9.00.00|
+|HYZiKuTangYinJiaKaiShuW.ttf|HYZiKuTangYinJiaKaiShu W|HYZiKuTangYinJiaKaiShu-W|HYZiKuTangYinJiaKaiShu W|Regular|9.00.00|
 |HYZiKuTangYiShanKaiW.ttf|HYZiKuTangYiShanKaiW|HYZiKuTangYiShanKaiW|HYZiKuTangYiShanKaiW|Regular|5.00|
+|HYZiYanGuoDongTiF.ttf|HYZiYanGuoDongTi F|HYZiYanGuoDongTi-F|HYZiYanGuoDongTi F|Regular|9.00.00|
+|HYZiYanGuoDongTiJ.ttf|HYZiYanGuoDongTi J|HYZiYanGuoDongTi-J|HYZiYanGuoDongTi J|Regular|9.00.00|
+|HYZiYanGuoDongTiW.ttf|HYZiYanGuoDongTi W|HYZiYanGuoDongTi-W|HYZiYanGuoDongTi W|Regular|9.00.00|
 |HYZiYanHuanLeSongF.ttf|HYZiYanHuanLeSongF|HYZiYanHuanLeSongF|HYZiYanHuanLeSongF|Regular|5.00|
 |HYZiYanHuanLeSongJ.ttf|HYZiYanHuanLeSongJ|HYZiYanHuanLeSongJ|HYZiYanHuanLeSongJ|Regular|5.00|
 |HYZiYanHuanLeSongW.ttf|HYZiYanHuanLeSongW|HYZiYanHuanLeSongW|HYZiYanHuanLeSongW|Regular|5.00|
@@ -863,6 +1067,7 @@
 |LQXianEr.ttf|XianErTi|XianErTi|XianErTi|Regular|5.00|
 |Mildy.ttf|Mildy Bold|HYRunYuan-GEW|Mildy|Bold|6.00|
 |Mithril.ttf|Mithril|Mithril|Mithril|Regular|6.00|
+|NimbusSanL-Med.ttf|NimbusSanLMed|NimbusSanL-Med|NimbusSanLMed|Regular|1.00|
 |PARaDOS.ttf|PARaDOS|PARaDOS|PARaDOS|Regular|6.00|
 |Radam.ttf|Radam|Radam-Regular|Radam|Regular|6.00|
 |Rayna.ttf|Rayna|Rayna|Rayna|Regular|6.00|
@@ -882,7 +1087,20 @@
 |SentyTEA-Basic.ttf|SentyTEA-basic|SentyTEA-basic|SentyTEA-basic|Regular|1.00 December 31, 2012, initial release|
 |SentyTEA.ttf|SentyTEA 新蒂下午茶体|SentyTEA|SentyTEA 新蒂下午茶体|Regular|1.00 April 1, 2016, initial release|
 |SentyTriumphCalligraphy.ttf|Hanyi Senty Triumph Calligraphy|HanyiSentyTriumphCalligraphy|Hanyi Senty Triumph Calligraphy|Regular|1.00;January 17, 2019;FontCreator 11.5.0.2430 64-bit|
+|SentyWENtrial.ttf|SentyWEN-trial|SentyWEN-trial|SentyWEN-trial|Regular|1.0|
 |SentyWEN.ttf|HanyiSentyWen|HanyiSentyWen|HanyiSentyWen|Regular|1.00;January 17, 2019;FontCreator 11.5.0.2430 64-bit|
 |SentyZHAO.ttf|HanyiSentyZhao|HanyiSentyZhao|HanyiSentyZhao|Regular|1.00;January 17, 2019;FontCreator 11.5.0.2430 64-bit|
 |Toshiyana.ttf|Toshiyana|Toshiyana|Toshiyana|Regular|6.00|
 |新蒂维摩诘经.ttf|HanyiSentyVimalakirti|HanyiSentyVimalakirti|HanyiSentyVimalakirti|Regular|1.00;December 30, 2018;FontCreator 11.5.0.2430 64-bit|
+|汉仪元隆黑45F.ttf|HYYuanLongHei 45F|HYYuanLongHei-DEF|HYYuanLongHei 45F|Regular|9.00.00|
+|汉仪元隆黑45J.ttf|HYYuanLongHei 45J|HYYuanLongHei-DEJ|HYYuanLongHei 45J|Regular|9.00.00|
+|汉仪元隆黑45W.ttf|HYYuanLongHei 45W|HYYuanLongHei-DEW|HYYuanLongHei 45W|Regular|9.00.00|
+|汉仪元隆黑60F.ttf|HYYuanLongHei 60F|HYYuanLongHei-FZF|HYYuanLongHei 60F|Regular|9.00.00|
+|汉仪元隆黑60J.ttf|HYYuanLongHei 60J|HYYuanLongHei-FZJ|HYYuanLongHei 60J|Regular|9.00.00|
+|汉仪元隆黑60W.ttf|HYYuanLongHei 60W|HYYuanLongHei-FZW|HYYuanLongHei 60W|Regular|9.00.00|
+|汉仪元隆黑75F.ttf|HYYuanLongHei 75F|HYYuanLongHei-GEF|HYYuanLongHei 75F|Regular|9.00.00|
+|汉仪元隆黑75J.ttf|HYYuanLongHei 75J|HYYuanLongHei-GEJ|HYYuanLongHei 75J|Regular|9.00.00|
+|汉仪元隆黑75W.ttf|HYYuanLongHei 75W|HYYuanLongHei-GEW|HYYuanLongHei 75W|Regular|9.00.00|
+|汉仪元隆黑90F.ttf|HYYuanLongHei 90F|HYYuanLongHei-IZF|HYYuanLongHei 90F|Regular|9.00.00|
+|汉仪元隆黑90J.ttf|HYYuanLongHei 90J|HYYuanLongHei-IZJ|HYYuanLongHei 90J|Regular|9.00.00|
+|汉仪元隆黑90W.ttf|HYYuanLongHei 90W|HYYuanLongHei-IZW|HYYuanLongHei 90W|Regular|9.00.00|
