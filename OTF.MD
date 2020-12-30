@@ -16,11 +16,11 @@
 |HYChaoCuYuanJ.otf|HYChaoCuYuanJ Regular|HYChaoCuYuanJ|HYChaoCuYuanJ|Regular|5.00|
 |HYChenPinPoTiJ.otf|HYChenPinJ Regular|HYChenPinJ|HYChenPinJ|Regular|5.00|
 |HYCuFangSongJ.otf|HYCuFangSongJ Regular|HYCuFangSongJ|HYCuFangSongJ|Regular|5.00|
-|HYCuHeiJ.otf|HYCuHeiJ Regular|HYCuHeiJ|HYCuHeiJ|Regular|5.00|
+|HYCuHeiJ.otf|HYCuHei J|HYCuHei-J|HYCuHei J|Regular|6.00|
 |HYCuJianHeiF.otf|HYCuJianHeiF Regular|HYCuJianHeiF|HYCuJianHeiF|Regular|5.00|
 |HYCuJianHeiJ.otf|HYCuJianHeiJ Regular|HYCuJianHeiJ|HYCuJianHeiJ|Regular|5.00|
-|HYCuSongJ.otf|HYCuSongJ Regular|HYCuSongJ|HYCuSongJ|Regular|5.00|
-|HYCuYuanJ.otf|HYCuYuanJ Regular|HYCuYuanJ|HYCuYuanJ|Regular|5.00|
+|HYCuSongJ.otf|HYCuSong J|HYCuSong-J|HYCuSong J|Regular|6.00|
+|HYCuYuanJ.otf|HYCuYuan J|HYCuYuan-J|HYCuYuan J|Regular|6.00|
 |HYDaHeiJ.otf|HYDaHeiJ Regular|HYDaHeiJ|HYDaHeiJ|Regular|5.00|
 |HYDaiYuTiJ.otf|HYDaiYuJ Regular|HYDaiYuJ|HYDaiYuJ|Regular|5.00|
 |HYDaLiShuJ.otf|HYDaLiShuJ|HYf1gs-Medium|HYDaLiShuJ|Regular|5.00|
@@ -54,7 +54,7 @@
 |HYHuPoTiJ.otf|HYHuPoJ|HYo1gs-Medium|HYHuPoJ|Regular|5.00|
 |HYJiaShuJ.otf|HYJiaShuJ Regular|HYJiaShuJ|HYJiaShuJ|Regular|5.00|
 |HYKaiTiJ.otf|HYKaiTiJ|HYc1gs-Medium|HYKaiTiJ|Regular|5.00|
-|HYLeMiaoTiJ.otf|HYLeMiaoTiJ Regular|HYLeMiaoTiJ|HYLeMiaoTiJ|Regular|5.00|
+|HYLeMiaoTiJ.otf|HYLeMiaoTi J|HYLeMiaoTi-J|HYLeMiaoTi J|Regular|6.00|
 |HYLiHeiJ.otf|HYLiHeiJ Regular|HYLiHeiJ|HYLiHeiJ|Regular|5.00|
 |HYLingBoTiJ.otf|HYLingBoJ Regular|HYLingBoJ|HYLingBoJ|Regular|5.00|
 |HYLingXinTiJ.otf|HYLingXinJ Regular|HYLingXinJ|HYLingXinJ|Regular|5.00|
@@ -154,7 +154,7 @@
 |HYShuangXianTiJ.otf|HYShuangXianJ Regular|HYShuangXianJ|HYShuangXianJ|Regular|5.00|
 |HYShuHunTiJ.otf|HYShuHunJ Regular|HYShuHunJ|HYShuHunJ|Regular|5.00|
 |HYShuiBoTiJ.otf|HYShuiBoJ Regular|HYShuiBoJ|HYShuiBoJ|Regular|5.00|
-|HYShuiDiTiJ.otf|HYShuiDiJ|HYp1gs-Medium|HYShuiDiJ|Regular|5.00|
+|HYShuiDiTiJ.otf|HYShuiDi J|HYShuiDi-J|HYShuiDi J|Regular|6.00|
 |HYShuSongErJ.otf|HYShuSongErJ|HYa6gs-Medium|HYShuSongErJ|Regular|5.00|
 |HYShuSongErS.otf|HYShuSongErS Regular|HYShuSongErS|HYShuSongErS|Regular|5.00|
 |HYShuSongYiJ.otf|HYShuSongYiJ Regular|HYShuSongYiJ|HYShuSongYiJ|Regular|5.00|
@@ -209,12 +209,12 @@
 |HYZhengYuan-95W.otf|HYZhengYuan-95W|HYZhengYuan-IEW|HYZhengYuan-95W|Regular|5.01|
 |HYZhenZhuLiJ.otf|HYZhenZhuLiJ Regular|HYZhenZhuLiJ|HYZhenZhuLiJ|Regular|5.00|
 |HYZhongDengXianJ.otf|HYZhongDengXianJ Regular|HYZhongDengXianJ|HYZhongDengXianJ|Regular|5.00|
-|HYZhongHeiJ.otf|HYZhongHeiJ|HYb1gs-Medium|HYZhongHeiJ|Regular|5.00|
+|HYZhongHeiJ.otf|HYZhongHei J|HYZhongHei-J|HYZhongHei J|Regular|6.00|
 |HYZhongJianHeiJ.otf|HYZhongJianHeiJ Regular|HYZhongJianHeiJ|HYZhongJianHeiJ|Regular|5.00|
 |HYZhongKaiJ.otf|HYZhongKaiJ Regular|HYZhongKaiJ|HYZhongKaiJ|Regular|5.00|
 |HYZhongLiShuJ.otf|HYZhongLiShuJ Regular|HYXiaoLiShuJ|HYZhongLiShuJ|Regular|5.00|
 |HYZhongSongJ.otf|HYZhongSongJ Regular|HYZhongSongJ|HYZhongSongJ|Regular|5.00|
-|HYZhongYuanJ.otf|HYZhongYuanJ Regular|HYZhongYuanJ|HYZhongYuanJ|Regular|5.00|
+|HYZhongYuanJ.otf|HYZhongYuan J|HYZhongYuan-J|HYZhongYuan J|Regular|6.00|
 |HYZhuJieTiJ.otf|HYZhuJieJ Regular|HYZhuJieJ|HYZhuJieJ|Regular|5.00|
 |HYZiDianSongJ.otf|HYZiDianSongJ Regular|HYZiDianSongJ|HYZiDianSongJ|Regular|5.00|
 |HYZiDianSongS.otf|HYZiDianSongS Regular|HYZiDianSongS|HYZiDianSongS|Regular|5.00|
