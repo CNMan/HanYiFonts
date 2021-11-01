@@ -3,6 +3,7 @@
 |Amy.otf|Amy|Amy|Amy|Regular|6.00|
 |AritaHeiti-Light.otf|Arita Heiti Light|AritaHeiti-Light|Arita Heiti|Light|1.01|
 |AritaHeiti-Medium.otf|Arita Heiti Medium|AritaHeiti-Medium|Arita Heiti|Medium|1.01|
+|Cotyledon-Regular.otf|Cotyledon|Cotyledon|Cotyledon|Regular|1.000|
 |HYBaiQingTiJ.otf|HYBaiQingJ|HYj4gs-Medium|HYBaiQingJ|Regular|5.00|
 |HYBaiQiTiJ.otf|HYBaiQiJ Regular|HYBaiQiJ|HYBaiQiJ|Regular|5.00|
 |HYBaoSongJ.otf|HYBaoSongJ Regular|HYBaoSongJ|HYBaoSongJ|Regular|5.00|
@@ -186,6 +187,34 @@
 |HYXiXingKaiJ.otf|HYXiXingKaiJ Regular|HYXiXingKaiJ|HYXiXingKaiJ|Regular|5.00|
 |HYXiYuanJ.otf|HYXiYuanJ Regular|HYXiYuanJ|HYXiYuanJ|Regular|5.00|
 |HYXiZhongYuanJ.otf|HYXiZhongYuanJ Regular|HYXiZhongYuanJ|HYXiZhongYuanJ|Regular|5.00|
+|HYXuanSong35F.otf|HYXuanSong 35F|HYXuanSong-35F|HYXuanSong 35F|Regular|V9.00.01|
+|HYXuanSong35J.otf|HYXuanSong 35J|HYXuanSong-35J|HYXuanSong 35J|Regular|V9.00.01|
+|HYXuanSong35S.otf|HYXuanSong 35S|HYXuanSong-35S|HYXuanSong 35S|Regular|V9.00.01|
+|HYXuanSong35W.otf|HYXuanSong 35W|HYXuanSong-35W|HYXuanSong 35W|Regular|V9.00.01|
+|HYXuanSong45F.otf|HYXuanSong 45F|HYXuanSong-45F|HYXuanSong 45F|Regular|V9.00.01|
+|HYXuanSong45J.otf|HYXuanSong 45J|HYXuanSong-45J|HYXuanSong 45J|Regular|V9.00.01|
+|HYXuanSong45S.otf|HYXuanSong 45S|HYXuanSong-45S|HYXuanSong 45S|Regular|V9.00.01|
+|HYXuanSong45W.otf|HYXuanSong 45W|HYXuanSong-45W|HYXuanSong 45W|Regular|V9.00.01|
+|HYXuanSong55F.otf|HYXuanSong 55F|HYXuanSong-55F|HYXuanSong 55F|Regular|V9.00.01|
+|HYXuanSong55J.otf|HYXuanSong 55J|HYXuanSong-55J|HYXuanSong 55J|Regular|V9.00.01|
+|HYXuanSong55S.otf|HYXuanSong 55S|HYXuanSong-55S|HYXuanSong 55S|Regular|V9.00.01|
+|HYXuanSong55W.otf|HYXuanSong 55W|HYXuanSong-55W|HYXuanSong 55W|Regular|V9.00.01|
+|HYXuanSong65F.otf|HYXuanSong 65F|HYXuanSong-65F|HYXuanSong 65F|Regular|V9.00.01|
+|HYXuanSong65J.otf|HYXuanSong 65J|HYXuanSong-65J|HYXuanSong 65J|Regular|V9.00.01|
+|HYXuanSong65S.otf|HYXuanSong 65S|HYXuanSong-65S|HYXuanSong 65S|Regular|V9.00.01|
+|HYXuanSong65W.otf|HYXuanSong 65W|HYXuanSong-65W|HYXuanSong 65W|Regular|V9.00.01|
+|HYXuanSong75F.otf|HYXuanSong 75F|HYXuanSong-75F|HYXuanSong 75F|Regular|V9.00.01|
+|HYXuanSong75J.otf|HYXuanSong 75J|HYXuanSong-75J|HYXuanSong 75J|Regular|V9.00.01|
+|HYXuanSong75S.otf|HYXuanSong 75S|HYXuanSong-75S|HYXuanSong 75S|Regular|V9.00.01|
+|HYXuanSong75W.otf|HYXuanSong 75W|HYXuanSong-75W|HYXuanSong 75W|Regular|V9.00.01|
+|HYXuanSong85F.otf|HYXuanSong 85F|HYXuanSong-85F|HYXuanSong 85F|Regular|V9.00.01|
+|HYXuanSong85J.otf|HYXuanSong 85J|HYXuanSong-85J|HYXuanSong 85J|Regular|V9.00.01|
+|HYXuanSong85S.otf|HYXuanSong 85S|HYXuanSong-85S|HYXuanSong 85S|Regular|V9.00.01|
+|HYXuanSong85W.otf|HYXuanSong 85W|HYXuanSong-85W|HYXuanSong 85W|Regular|V9.00.01|
+|HYXuanSong95F.otf|HYXuanSong 95F|HYXuanSong-95F|HYXuanSong 95F|Regular|V9.00.01|
+|HYXuanSong95J.otf|HYXuanSong 95J|HYXuanSong-95J|HYXuanSong 95J|Regular|V9.00.01|
+|HYXuanSong95S.otf|HYXuanSong 95S|HYXuanSong-95S|HYXuanSong 95S|Regular|V9.00.01|
+|HYXuanSong95W.otf|HYXuanSong 95W|HYXuanSong-95W|HYXuanSong 95W|Regular|V9.00.01|
 |HYXueFengTiJ.otf|HYXueFengJ|HYo2gs-Medium|HYXueFengJ|Regular|5.00|
 |HYXueJunTiJ.otf|HYXueJunJ|HYi4gs-Medium|HYXueJunJ|Regular|5.00|
 |HYYaKuHeiW.otf|HYYaKuHeiW Regular|HYYaKuHeiW|HYYaKuHeiW|Regular|5.00|
@@ -219,5 +248,6 @@
 |HYZiDianSongJ.otf|HYZiDianSongJ Regular|HYZiDianSongJ|HYZiDianSongJ|Regular|5.00|
 |HYZiDianSongS.otf|HYZiDianSongS Regular|HYZiDianSongS|HYZiDianSongS|Regular|5.00|
 |HYZongYiTiJ.otf|HYZongYiJ Regular|HYZongYiJ|HYZongYiJ|Regular|5.00|
+|Jellybaby.otf|Jellybaby|Jellybaby|Jellybaby|Regular|1.000|
 |Levi.otf|Levi|Levi|Levi|Regular|6.00|
 |Radam.otf|Radam|Radam|Radam|Regular|6.00|
