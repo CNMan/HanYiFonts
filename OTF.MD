@@ -27,6 +27,7 @@
 |HYDaLiShuJ.otf|HYDaLiShuJ|HYf1gs-Medium|HYDaLiShuJ|Regular|5.00|
 |HYDaSongJ.otf|HYDaSongJ Regular|HYDaSongJ|HYDaSongJ|Regular|5.00|
 |HYDianYaTiF.otf|HYDianYaTiF Regular|HYDianYaTiF|HYDianYaTiF|Regular|5.00|
+|HYDianYaTiJF.otf|HYDianYaTiJF|HYDianYaTiJF|HYDianYaTi JF|Regular|9.00.00|
 |HYDianYaTiJ.otf|HYDianYaTiJ Regular|HYDianYaTiJ|HYDianYaTiJ|Regular|5.00|
 |HYDieYuTiJ.otf|HYDieYuJ Regular|HYDieYuJ|HYDieYuJ|Regular|5.00|
 |HYDuDuTiJ.otf|HYDuDuJ Regular|HYDuDuJ|HYDuDuJ|Regular|5.00|
@@ -64,23 +65,39 @@
 |HYMiMiTiJ.otf|HYMiMiJ Regular|HYMiMiJ|HYMiMiJ|Regular|5.00|
 |HYNanGongTiJ.otf|HYNanGongJ Regular|HYNanGongJ|HYNanGongJ|Regular|5.00|
 |HYPiLiTiJ.otf|HYPiLiJ Regular|HYPiLiJ|HYPiLiJ|Regular|5.00|
-|HYQiHei-105JF.otf|HYQiHei-105JF UltraBlack|HYQiHei-AZEJF|HYQiHei-105JF|UltraBlack|5.01|
+|HYQiHei-105JF.otf|HYQiHei 105JF|HYQiHei_105JF|HYQiHei 105JF|Regular|9.00.00|
+|HYQiHei_105JF.otf|HYQiHei 105JF|HYQiHei_105JF|HYQiHei 105JF|Regular|Version9.00.00|
 |HYQiHei-25JF.otf|HYQiHei-25JF Hairline|HYQiHei-BEJF|HYQiHei-25JF|Hairline|5.00|
-|HYQiHei-25S.otf|HYQiHei-25S Hairline|HYQiHei-BES|HYQiHei-25S|Hairline|5.01|
-|HYQiHei-30S.otf|HYQiHei-30S ExtraThin|HYQiHei-CZS|HYQiHei-30S|ExtraThin|5.01|
-|HYQiHei-35S.otf|HYQiHei-35S Thin|HYQiHei-CES|HYQiHei-35S|Thin|5.01|
-|HYQiHei-40S.otf|HYQiHei-40S UltraLight|HYQiHei-DZS|HYQiHei-40S|UltraLight|5.01|
-|HYQiHei-45S.otf|HYQiHei-45S ExtraLight|HYQiHei-DES|HYQiHei-45S|ExtraLight|5.01|
-|HYQiHei-50S.otf|HYQiHei-50S Light|HYQiHei-EZS|HYQiHei-50S|Light|5.01|
-|HYQiHei-55S.otf|HYQiHei-55S Book|HYQiHei-EES|HYQiHei-55S|Book|5.01|
-|HYQiHei-60S.otf|HYQiHei-60S Regular|HYQiHei-FZS|HYQiHei-60S|Regular|5.01|
-|HYQiHei-65S.otf|HYQiHei-65S Medium|HYQiHei-FES|HYQiHei-65S|Medium|5.01|
-|HYQiHei-70S.otf|HYQiHei-70S DemiBold|HYQiHei-GZS|HYQiHei-70S|DemiBold|5.01|
-|HYQiHei-75S.otf|HYQiHei-75S Bold|HYQiHei-GES|HYQiHei-75S|Bold|5.01|
-|HYQiHei-80S.otf|HYQiHei-80S ExtraBold|HYQiHei-HZS|HYQiHei-80S|ExtraBold|5.01|
-|HYQiHei-85S.otf|HYQiHei-85S Heavy|HYQiHei-HES|HYQiHei-85S|Heavy|5.01|
-|HYQiHei-90S.otf|HYQiHei-90S Black|HYQiHei-IZS|HYQiHei-90S|Black|5.01|
-|HYQiHei-95S.otf|HYQiHei-95S ExtraBlack|HYQiHei-IES|HYQiHei-95S|ExtraBlack|5.01|
+|HYQiHei-25S.otf|HYQiHei 25S|HYQiHei_25S|HYQiHei 25S|Regular|9.00.00|
+|HYQiHei_25S.otf|HYQiHei 25S|HYQiHei_25S|HYQiHei 25S|Regular|Version9.00.00|
+|HYQiHei-30S.otf|HYQiHei 30S|HYQiHei_30S|HYQiHei 30S|Regular|9.00.00|
+|HYQiHei_30S.otf|HYQiHei 30S|HYQiHei_30S|HYQiHei 30S|Regular|Version9.00.00|
+|HYQiHei-35S.otf|HYQiHei 35S|HYQiHei_35S|HYQiHei 35S|Regular|9.00.00|
+|HYQiHei_35S.otf|HYQiHei 35S|HYQiHei_35S|HYQiHei 35S|Regular|Version9.00.00|
+|HYQiHei-40S.otf|HYQiHei 40S|HYQiHei_40S|HYQiHei 40S|Regular|9.00.00|
+|HYQiHei_40S.otf|HYQiHei 40S|HYQiHei_40S|HYQiHei 40S|Regular|Version9.00.00|
+|HYQiHei-45S.otf|HYQiHei 45S|HYQiHei_45S|HYQiHei 45S|Regular|9.00.00|
+|HYQiHei_45S.otf|HYQiHei 45S|HYQiHei_45S|HYQiHei 45S|Regular|Version9.00.00|
+|HYQiHei-50S.otf|HYQiHei 50S|HYQiHei_50S|HYQiHei 50S|Regular|9.00.00|
+|HYQiHei_50S.otf|HYQiHei 50S|HYQiHei_50S|HYQiHei 50S|Regular|Version9.00.00|
+|HYQiHei-55S.otf|HYQiHei 55S|HYQiHei_55S|HYQiHei 55S|Regular|9.00.00|
+|HYQiHei_55S.otf|HYQiHei 55S|HYQiHei_55S|HYQiHei 55S|Regular|Version9.00.00|
+|HYQiHei-60S.otf|HYQiHei 60S|HYQiHei_60S|HYQiHei 60S|Regular|9.00.00|
+|HYQiHei_60S.otf|HYQiHei 60S|HYQiHei_60S|HYQiHei 60S|Regular|Version9.00.00|
+|HYQiHei-65S.otf|HYQiHei 65S|HYQiHei_65S|HYQiHei 65S|Regular|9.00.00|
+|HYQiHei_65S.otf|HYQiHei 65S|HYQiHei_65S|HYQiHei 65S|Regular|Version9.00.00|
+|HYQiHei-70S.otf|HYQiHei 70S|HYQiHei_70S|HYQiHei 70S|Regular|9.00.00|
+|HYQiHei_70S.otf|HYQiHei 70S|HYQiHei_70S|HYQiHei 70S|Regular|Version9.00.00|
+|HYQiHei-75S.otf|HYQiHei 75S|HYQiHei_75S|HYQiHei 75S|Regular|9.00.00|
+|HYQiHei_75S.otf|HYQiHei 75S|HYQiHei_75S|HYQiHei 75S|Regular|Version9.00.00|
+|HYQiHei-80S.otf|HYQiHei 80S|HYQiHei_80S|HYQiHei 80S|Regular|9.00.00|
+|HYQiHei_80S.otf|HYQiHei 80S|HYQiHei_80S|HYQiHei 80S|Regular|Version9.00.00|
+|HYQiHei-85S.otf|HYQiHei 85S|HYQiHei_85S|HYQiHei 85S|Regular|9.00.00|
+|HYQiHei_85S.otf|HYQiHei 85S|HYQiHei_85S|HYQiHei 85S|Regular|Version9.00.00|
+|HYQiHei-90S.otf|HYQiHei 90S|HYQiHei_90S|HYQiHei 90S|Regular|9.00.00|
+|HYQiHei_90S.otf|HYQiHei 90S|HYQiHei_90S|HYQiHei 90S|Regular|Version9.00.00|
+|HYQiHei-95S.otf|HYQiHei 95S|HYQiHei_95S|HYQiHei 95S|Regular|9.00.00|
+|HYQiHei_95S.otf|HYQiHei 95S|HYQiHei_95S|HYQiHei 95S|Regular|Version9.00.00|
 |HYQiHeiX1-35W.otf|HYQiHeiX1-35W Thin|HYQiHeiX1-CEW|HYQiHeiX1-35W|Thin|5.00|
 |HYQiHeiX1-45W.otf|HYQiHeiX1-45W ExtraLight|HYQiHeiX1-DEW|HYQiHeiX1-45W|ExtraLight|5.00|
 |HYQiHeiX1-55W.otf|HYQiHeiX1-55W Book|HYQiHeiX1-EEW|HYQiHeiX1-55W|Book|5.00|
@@ -146,9 +163,9 @@
 |HYQuHeiW.otf|HYQuHeiW Regular|HYQuHeiW|HYQuHeiW|Regular|5.00|
 |HYRuiYiSongW.otf|HYRuiYiSongW Regular|HYRuiYiSongW|HYRuiYiSongW|Regular|5.00|
 |HYRunYuan-35W.otf|HYRunYuan-35W Thin|HYRunYuan-CEW|HYRunYuan-35W|Thin|5.00|
-|HYRunYuan-45W.otf|HYRunYuan-45W ExtraLight|HYRunYuan-DEW|HYRunYuan-45W|ExtraLight|5.00|
-|HYRunYuan-55W.otf|HYRunYuan-55W Book|HYRunYuan-EEW|HYRunYuan-55W|Book|5.00|
-|HYRunYuan-65W.otf|HYRunYuan-65W Medium|HYRunYuan-FEW|HYRunYuan-65W|Medium|5.00|
+|HYRunYuan-45W.otf|HYRunYuan-45W ExtraLight|HYRunYuan-DEW|HYRunYuan-45W|ExtraLight|5.01|
+|HYRunYuan-55W.otf|HYRunYuan-55W Book|HYRunYuan-EEW|HYRunYuan-55W|Book|5.01|
+|HYRunYuan-65W.otf|HYRunYuan-65W Medium|HYRunYuan-FEW|HYRunYuan-65W|Medium|5.01|
 |HYRunYuan-75W.otf|HYRunYuan-75W Bold|HYRunYuan-GEW|HYRunYuan-75W|Bold|5.00|
 |HYShenGongTiJ.otf|HYShenGongJ Regular|HYShenGongJ|HYShenGongJ|Regular|5.00|
 |HYShouJinShuJ.otf|HYShouJinShuJ Regular|HYShouJinShuJ|HYShouJinShuJ|Regular|5.00|
@@ -157,13 +174,16 @@
 |HYShuiBoTiJ.otf|HYShuiBoJ Regular|HYShuiBoJ|HYShuiBoJ|Regular|5.00|
 |HYShuiDiTiJ.otf|HYShuiDi J|HYShuiDi-J|HYShuiDi J|Regular|6.00|
 |HYShuSongErJ.otf|HYShuSongErJ|HYa6gs-Medium|HYShuSongErJ|Regular|5.00|
-|HYShuSongErS.otf|HYShuSongErS Regular|HYShuSongErS|HYShuSongErS|Regular|5.00|
+|HYShuSongErS.otf|HYShuSongErS Regular|HYShuSongErS|HYShuSongErS|Regular|5.10|
 |HYShuSongYiJ.otf|HYShuSongYiJ Regular|HYShuSongYiJ|HYShuSongYiJ|Regular|5.00|
 |HYShuTongTiJ.otf|HYShuTongJ Regular|HYShuTongJ|HYShuTongJ|Regular|5.00|
 |HYSongYunLangHeiW.otf|HYSongYunLangHeiW Regular|HYSongYunLangHeiW|HYSongYunLangHeiW|Regular|5.00|
 |HYTaiJiTiJ.otf|HYTaiJiJ Regular|HYTaiJiJ|HYTaiJiJ|Regular|5.00|
 |HYTangTangTiJ.otf|HYTangTangTiJ Regular|HYTangTangTiJ|HYTangTangTiJ|Regular|5.00|
 |HYTeXiDengXianJ.otf|HYTeXiDengXianJ Regular|HYTeXiDengXianJ|HYTeXiDengXianJ|Regular|5.00|
+|HYTianNuoLiXianF.otf|HYTianNuoLiXian F|HYTianNuoLiXian_F|HYTianNuoLiXian F|Regular|9.00.00|
+|HYTianNuoLiXianJ.otf|HYTianNuoLiXian J|HYTianNuoLiXian_J|HYTianNuoLiXian J|Regular|9.00.00|
+|HYTianNuoLiXianW.otf|HYTianNuoLiXian W|HYTianNuoLiXian_W|HYTianNuoLiXian W|Regular|9.00.00|
 |HYTieShanLiShuJ.otf|HYTieShanLiShuJ Regular|HYTieShanLiShuJ|HYTieShanLiShuJ|Regular|5.00|
 |HYWaWaZhuanJ.otf|HYWaWaZhuanJ Regular|HYWaWaZhuanJ|HYWaWaZhuanJ|Regular|5.00|
 |HYWeiBeiJ.otf|HYWeiBeiJ|HYh1gs-Medium|HYWeiBeiJ|Regular|5.00|
